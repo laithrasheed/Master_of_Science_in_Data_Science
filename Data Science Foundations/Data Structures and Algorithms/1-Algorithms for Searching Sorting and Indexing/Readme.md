@@ -31,7 +31,7 @@ In this module the student will learn the very basics of algorithms through thre
 - Compare running time of algorithms through big-O, big-Omega and big-Theta notations
 
 **Programming Assignment**
-- [Introductions to Algorithms](Data Science Foundations/Data Structures and Algorithms/1-Algorithms for Searching Sorting and Indexing/M1-Introduction-to-Algorithms.ipynb)
+- [Introductions to Algorithms](https://github.com/laithrasheed/MSDS_Program_Private/blob/main/Data%20Science%20Foundations/Data%20Structures%20and%20Algorithms/1-Algorithms%20for%20Searching%20Sorting%20and%20Indexing/M1-Introduction-to-Algorithms.ipynb)
 
 **Week 2 | Heaps and Hashtable Data Structures**
 
@@ -46,7 +46,7 @@ In this module, the student will learn about the basics of data structures that 
 - Learn the basic differences between a heap and a hashtable data-structure. Understand when to use a hashtable as opposed to a heap data-structure
 
 **Programming Assignment**
-- [Heap Data Structures](Data Science Foundations/Data Structures and Algorithms/1-Algorithms for Searching Sorting and Indexing/M2-Heap-Data-Structures.ipynb)
+- [Heap Data Structures](https://github.com/laithrasheed/MSDS_Program_Private/blob/main/Data%20Science%20Foundations/Data%20Structures%20and%20Algorithms/1-Algorithms%20for%20Searching%20Sorting%20and%20Indexing/M2-Heap-Data-Structures.ipynb)
 **Week 3 | Randomization: Quicksort, Quickselect, and Hashtables**
 
 We will go through the quicksort and quickselect algorithms for sorting and selecting the kth smallest element in an array efficiently. This will also be an introduction to the role of randomization in algorithm design. Next, we will study hashtables: a highly useful data structure that allows for efficient search and retrieval from large amounts of data. We will learn about the basic principles of hash-table and operations on hashtables.
@@ -59,7 +59,7 @@ We will go through the quicksort and quickselect algorithms for sorting and sele
 - Understand the pitfalls behind hash function design for hashtables and the use of randomization to make hashtables work against the worst case.
 
 **Programming Assignment**
-- [Quicksort and Hash Functions](Data Science Foundations/Data Structures and Algorithms/1-Algorithms for Searching Sorting and Indexing/M3-Quicksort-and-Hash-Functions.ipynb)
+- [Quicksort and Hash Functions](https://github.com/laithrasheed/MSDS_Program_Private/blob/main/Data%20Science%20Foundations/Data%20Structures%20and%20Algorithms/1-Algorithms%20for%20Searching%20Sorting%20and%20Indexing/M3-Quicksort-and-Hash-Functions.ipynb)
 
 **Week 4 | Advanced Topics**
 
@@ -72,7 +72,7 @@ In this module, we will learn randomized pivot selection for quicksort and quick
 - Understand how to use hash-tables for sketching over streaming data.
 
 **Programming Assignment**
-- [Hash Applications](Data Science Foundations/Data Structures and Algorithms/1-Algorithms for Searching Sorting and Indexing/M4-Hash-Applications.ipynb)
+- [Hash Applications](https://github.com/laithrasheed/MSDS_Program_Private/blob/main/Data%20Science%20Foundations/Data%20Structures%20and%20Algorithms/1-Algorithms%20for%20Searching%20Sorting%20and%20Indexing/M4-Hash-Applications.ipynb)
 
 **Week 5 | Final Exam**
 
@@ -82,7 +82,7 @@ You will complete a programming assignment worth 16% of your grade. You must att
 - Demonstrate mastery of the material presented in this course.
 
 **Programming Assignment**
-- [Final Exam](Data Science Foundations/Data Structures and Algorithms/1-Algorithms for Searching Sorting and Indexing/M5-Final-Exam.ipynb)
+- [Final Exam](https://github.com/laithrasheed/MSDS_Program_Private/blob/main/Data%20Science%20Foundations/Data%20Structures%20and%20Algorithms/1-Algorithms%20for%20Searching%20Sorting%20and%20Indexing/M5-Final-Exam.ipynb)
 
 
 
