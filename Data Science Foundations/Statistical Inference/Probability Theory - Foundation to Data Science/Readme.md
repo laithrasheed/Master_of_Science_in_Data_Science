@@ -110,5 +110,5 @@ You will complete a proctored exam worth 22% of your grade made up of made up of
 
 
 ## References
-###### <a name="reference-1"></a>[[1] Course Curriculum - Master of Science in Data Science - University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera/curriculum/dtsa5502)
+###### <a name="reference-1"></a>[[1] Course Curriculum - Master of Science in Data Science - University of Colorado Boulder]([https://www.colorado.edu/program/data-science/coursera/curriculum/dtsa5502](https://www.colorado.edu/program/data-science/coursera/curriculum/dtsa5001))
 
