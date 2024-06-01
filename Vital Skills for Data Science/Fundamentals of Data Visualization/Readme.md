@@ -78,7 +78,7 @@ In this module, you will learn how to assess the effectiveness of your visualiza
 
 You will complete a peer reviewed project worth 40% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
 
-##### [Final Project]()
+##### [Final Project](https://github.com/laithrasheed/MSDS_Program_Private/blob/main/Vital%20Skills%20for%20Data%20Science/Fundamentals%20of%20Data%20Visualization/Final%20Project%20Delivery%20for%20Fundamentals%20of%20Visualization%20Course.pdf)
 
 
 ## References
