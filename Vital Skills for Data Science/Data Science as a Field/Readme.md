@@ -76,8 +76,16 @@ This week you will learn about important ways of communicating your results. We 
 
 ### Week 5 |  Final Exam
 
-You will complete a peer reviewed project worth 50% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a peer reviewed project worth 20% of my grade.
+- The final exam is about an introduction to the Data Science in general. At that level I do not have the full skills to implelemnt a full Data Science project. Such that this project is for preparing me for coming projects in the MSDS degree and be familier on using R especially in RStudio.
+- The final exam is about applying step by step the covered proceduere of how to implement a reproducable project using COVID-19 dataset. In addition to that, I was required to apply what I have learned on other dataset which it was NYPD Shooting Incidents Dataset
 
+- In the below table you can find the files of both projects NYPD and COVID-19. 
+
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [COVID-19 Dataset](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Vital%20Skills%20for%20Data%20Science/Data%20Science%20as%20a%20Field/Final-Project-Submission-of-COVID-19-Data-Set.pdf)       |     PDF      |        The PDF file shows R scripts for the skills applied through out the course using the COVID-19 Dataset    |
+| [NYPD Shooting Incidents Dataset](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Vital%20Skills%20for%20Data%20Science/Data%20Science%20as%20a%20Field/NYPD%20Shooting%20Incidents%20Presentation.pdf)       |     PDF      |      The PDF file reflects learning outcomes and applied skills I learned through out the course using the NYPD Shooting incidents dataset   |
 
 
 ## References
