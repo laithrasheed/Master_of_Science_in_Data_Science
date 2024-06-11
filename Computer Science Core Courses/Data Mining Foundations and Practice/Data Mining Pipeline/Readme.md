@@ -79,7 +79,7 @@ This module covers the key characteristics of data warehousing and the technique
 
 ### Week 5 |  Final Exam
 
-You will complete a proctored exam worth 20% of your grade made up of multiple choice questions. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+I have completed a proctored exam worth 20% of my grade made up of multiple choice questions. 
 
 ##### Proctored Exam
 
