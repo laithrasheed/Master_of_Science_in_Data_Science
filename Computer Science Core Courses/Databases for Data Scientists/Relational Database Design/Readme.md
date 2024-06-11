@@ -88,9 +88,17 @@ A summary of the knowledge we learned in this course, starting from an Entity Re
 
 ### Week 5 |  Final Exam
 
-You will complete a peer reviewed final project worth 20% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a peer reviewed project worth 20% of my grade.
+- The project is about designing a Relational Model from scratch. I selected the **Amman Bus Rapid Transit** as a case study.  
+- In the below table you can find the recorded presenation and the relatiojn model PDF file. 
 
-##### [Final Project]()
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [Project Presentation](https://coursera-assessments.s3.amazonaws.com/assessments/1694745345252/03a2a6c9-8a47-4193-831f-b27717c86468/DTSA%205733%20Final%20Project%20Presentation.mp4)       |     MP4      |        A video recording where I present to the audience about my project results and conclusions    |
+| [Designing Relational Model](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Databases%20for%20Data%20Scientists/Relational%20Database%20Design/DTSA%205733%20Relational%20Database%20Design%20Final%20Project.pdf)       |     PDF      |      The file shows step by step how I built the Relational Model    |
+| [Project Presentation Slides](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Databases%20for%20Data%20Scientists/Relational%20Database%20Design/Final%20Project%20Presentation.pdf)       |     PDF      |       The file contains the slides of the recorded presentation   |
+
+
 
 
 ## References
