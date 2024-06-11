@@ -101,7 +101,8 @@ Data science is applied to a wide variety of important application areas, each w
 
 ### Week 6 |  Final Exam
 
-You will complete a peer reviewed essay worth 35% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a peer reviewed essay worth 35% of my grade.
+- The essay is about discussing with my peers about **Ethical Issues of Using AI in the Healthcare Field**
 
 
 
