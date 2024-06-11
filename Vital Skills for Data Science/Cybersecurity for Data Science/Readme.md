@@ -106,9 +106,16 @@ You will connect with a cybersecurity expert , interview the contact, submit the
 
 ### Week 6 |  Final Exam
 
-You will complete a peer reviewed project worth 28% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a peer reviewed project worth 28% of my grade.
+- The Final project is consisted of two separate parts. The first part is about presenting a **MEMO**  to the cybersecurity public, describing technically how the attakers approached to their target and accessed sensitive data.
+- The second part of the project is about asking 5 questions I would to ask and discuss with a real cybersecurity practitioner. Note that the project was intended to have a real discussion and answers from the proposed cybersecurity practitioner, but I could not conduct a real conversation and I clarified that to my peers, as I could not find a cybersecurity practitioner in MeetUP in my country. 
+- Below table shows documents and presentations for both parts of the final exam.
 
-
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [Presenting a MEMO to Cybersecurity Public](https://youtu.be/ikZQ21sH4qE)       |     MP4      |        Recorded presentation to the cybersecurity public about hacking sensitive data in WHO )    |
+| [Cybersecurity MEMO](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Vital%20Skills%20for%20Data%20Science/Cybersecurity%20for%20Data%20Science/Cybersecurity%20MEMO.pdf) | PDF | The file shows a written MEMO by me that is directed to the Cybersecurity public |
+| [Presentation of 5 Question I would ask to a cybersecurity practitioner](https://youtu.be/IBS8otIF6M8) | MP4 | Recorded Presenation about 5 questions I would ask for a cybersecurity practitioner |
 
 ## References
 ###### <a name="reference-1"></a>[[1] Course Curriculum - Master of Science in Data Science - University of Colorado Boulder](https://www.colorado.edu/program/data-science/coursera/curriculum/dtsa5302)
