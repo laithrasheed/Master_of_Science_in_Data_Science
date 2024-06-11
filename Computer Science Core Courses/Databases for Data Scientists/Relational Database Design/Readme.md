@@ -90,7 +90,7 @@ A summary of the knowledge we learned in this course, starting from an Entity Re
 
 - I have completed a peer reviewed project worth 20% of my grade.
 - The project is about designing a Relational Model from scratch. I selected the **Amman Bus Rapid Transit** as a case study.  
-- In the below table you can find the recorded presenation and the relatiojn model PDF file. 
+- In the below table you can find the recorded presenation and the relational model PDF file. 
 
 | Document | Type | Description |
 |:------------:|:--------------:|:-------------:|
