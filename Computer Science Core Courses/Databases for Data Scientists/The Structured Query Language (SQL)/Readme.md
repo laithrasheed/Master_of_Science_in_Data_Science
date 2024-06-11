@@ -115,9 +115,15 @@ Some more advanced SQL capabilities.
 
 ### Week 7 |  Final Exam
 
-You will complete a peer reviewed final project worth 50% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a peer reviewed  project worth 50% of my grade.
+- The project is about designing a Relational Model from scratch. I selected the **Amman Bus Rapid Transit** as a case study.  
+- In the below table you can find the recorded presenation and the relational model PDF file. 
 
-##### [Final Project]()
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [SQL Queries - Northwinds RDBM](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Databases%20for%20Data%20Scientists/The%20Structured%20Query%20Language%20(SQL)/SQL%20Final%20Project.pdf)       |     PDF      |       The PDF file shows 3 Analytical Questions I have created from my own where I need to reflect what I have learned during the course    |
+
+
 
 
 ## References
