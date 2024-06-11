@@ -76,9 +76,13 @@ In this module, you will learn how to assess the effectiveness of your visualiza
 
 ### Week 4 |  Final Exam
 
-You will complete a peer reviewed project worth 40% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a peer reviewed project worth 40% of my grade.
+- The project is inteneded to reflect fundamental skill I learned during the course, I used **Tableau-Public** to visualize my **EDA** results using the **World Happiness Score 2016 Dataset**. The main reason I chose Tableau over **Alter library in python** is that I can present my story more effectively using Tableau 
+- In the below table you can find the PDF file . 
 
-##### [Final Project](https://github.com/laithrasheed/MSDS_Program_Private/blob/main/Vital%20Skills%20for%20Data%20Science/Fundamentals%20of%20Data%20Visualization/Final%20Project%20Delivery%20for%20Fundamentals%20of%20Visualization%20Course.pdf)
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [Fundamentals of Visualization Using Tableau](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Vital%20Skills%20for%20Data%20Science/Fundamentals%20of%20Data%20Visualization/Final%20Project%20Delivery%20for%20Fundamentals%20of%20Visualization%20Course.pdf)       |     PDF      |        The PDF file shows Story Telling Dashboard using Tableau for the EDA results of the World Happiness Score 2016 Dataset    |
 
 
 ## References
