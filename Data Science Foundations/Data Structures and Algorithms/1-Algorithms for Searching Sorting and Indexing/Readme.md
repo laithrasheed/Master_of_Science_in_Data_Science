@@ -16,8 +16,6 @@
 
 ### Week 1 | Basics of Algorithms Through Searching and Sorting
 
-In this module the student will learn the very basics of algorithms through three examples: insertion sort (sort an array in ascending/descending order); binary search: search whether an element is present in a sorted array and if yes, find its index; and merge sort (a faster method for sorting an array). Through these algorithms the student will be introduced to the analysis of algorithms -- i.e., proving that the algorithm is correct for the task it has been designed for and establishing a bound on how the time taken to execute the algorithm grows as a function of input. The student is also exposed to the notion of a faster algorithm and asymptotic complexity through the O, big-Omega and big-Theta notations.
-
 #### Learning Objectives
 - Analyze computational complexity of algorithms.
 - Prove correctness of algorithms using inductive invariants.
@@ -29,8 +27,6 @@ In this module the student will learn the very basics of algorithms through thre
 - **Introductions to Algorithms**
 
 ### Week 2 | Heaps and Hashtable Data Structures
-
-In this module, the student will learn about the basics of data structures that organize data to make certain types of operations faster. The module starts with a broad introduction to data structures and talks about some simple data structures such as first-in first out queues and last-in first out stack. Next, we introduce the heap data structure and the basic properties of heaps. This is followed by algorithms for insertion, deletion and finding the minimum element of a heap along with their time complexities. Finally, we will study the priority queue data structure and showcase some applications.
 
 #### Learning Objectives
 - Understand the need for data structures and how these are used in programming.
@@ -45,8 +41,6 @@ In this module, the student will learn about the basics of data structures that 
 
 ### Week 3 | Randomization: Quicksort, Quickselect, and Hashtables
 
-We will go through the quicksort and quickselect algorithms for sorting and selecting the kth smallest element in an array efficiently. This will also be an introduction to the role of randomization in algorithm design. Next, we will study hashtables: a highly useful data structure that allows for efficient search and retrieval from large amounts of data. We will learn about the basic principles of hash-table and operations on hashtables.
-
 #### Learning Objectives
 - Understand and implement quicksort algorithm with a carefully designed partition scheme.
 - Prove correctness of the partition scheme and the algorithm.
@@ -58,8 +52,6 @@ We will go through the quicksort and quickselect algorithms for sorting and sele
 - **Quicksort and Hash Functions**
 
 ### Week 4 | Advanced Topics
-
-In this module, we will learn randomized pivot selection for quicksort and quickselect. We will learn how to analyze the complexity of the randomized quicksort/quickselect algorithms. We will learn open address hashing: a technique that simplifies hashtable design. Next we will study the design of hash functions and their analysis. Finally, we present and analyze Bloom filters that are used in various applications such as querying streaming data and counting.
 
 #### Learning Objectives
 - Design open-address hash-tables and algorithms for insertion and deletion.
