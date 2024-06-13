@@ -23,7 +23,6 @@
 
 ### Week 1 | Point Estimation
 
-In this module you will learn how to estimate parameters from a large population based only on information from a small sample. You will learn about desirable properties that can be used to help you to differentiate between good and bad estimators. We will review the concepts of expectation, variance, and covariance, and you will be introduced to a formal, yet intuitive, method of estimation known as the "method of moments".
 
 #### Learning Objectives
 
@@ -41,7 +40,6 @@ In this module you will learn how to estimate parameters from a large population
 
 ### Week 2 | Maximum Likelihood Estimation
 
-In this module we will learn what a likelihood function is and the concept of maximum likelihood estimation. We will construct maximum likelihood estimators (MLEs) for one and two parameter examples and functions of parameters using the invariance property of MLEs.
 
 #### Learning Objectives
 
@@ -57,7 +55,6 @@ In this module we will learn what a likelihood function is and the concept of ma
 
 ### Week 3 | Large Sample Properties of Maximum Likelihood Estimation
 
-In this module we will explore large sample properties of maximum likelihood estimators including asymptotic unbiasedness and asymptotic normality. We will learn how to compute the “Cramér–Rao lower bound” which gives us a benchmark for the smallest possible variance for an unbiased estimator.
 
 #### Learning Objectives
 
@@ -73,7 +70,6 @@ In this module we will explore large sample properties of maximum likelihood est
 
 ### Week 4 |  Confidence Intervals Involving the Normal Distribution
 
-In this module we learn about the theory of “interval estimation”. We will learn the definition and correct interpretation of a confidence interval and how to construct one for the mean of an unseen population based on both large and small samples. We will look at the cases where the variance is known and unknown.
 
 #### Learning Objectives
 
@@ -91,7 +87,6 @@ In this module we learn about the theory of “interval estimation”. We will l
 
 ### Week 5 |  Beyond Normality: Confidence Intervals Unleashed!
 
-In this module, we will generalize the lessons of Module 4 so that we can develop confidence intervals for other quantities of interest beyond the distribution mean and for other distributions entirely. This module covers two sample confidence intervals in more depth, and confidence intervals for population variances and proportions. We will also learn how to develop confidence intervals for parameters of interest in non-normal distributions.
 
 #### Learning Objectives
 
@@ -105,7 +100,7 @@ In this module, we will generalize the lessons of Module 4 so that we can develo
 
 ### Week 6 | Final Exam
 
-You will complete a proctored exam worth 20% of your grade made up of multiple choice and free response questions. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+I have completed a proctored exam worth 20% of your grade made up of multiple choice and free response questions.
 
 
 ## References
