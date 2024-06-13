@@ -24,7 +24,6 @@
 
 ### Week 1 | Fundamental Concepts of Hypothesis Testing
 
-In this module, we will define a hypothesis test and develop the intuition behind designing a test. We will learn the language of hypothesis testing, which includes definitions of a null hypothesis, an alternative hypothesis, and the level of significance of a test. We will walk through a very simple test.
 
 #### Learning Objectives
 
@@ -40,7 +39,6 @@ In this module, we will define a hypothesis test and develop the intuition behin
 
 ### Week 2 | Composite Tests, Power Functions, and P-Values
 
-In this module, we will expand the lessons of Module 1 to composite hypotheses for both one and two-tailed tests. We will define the “power function” for a test and discuss its interpretation and how it can lead to the idea of a “uniformly most powerful” test. We will discuss and interpret “p-values” as an alternate approach to hypothesis testing.
 
 #### Learning Objectives
 
@@ -56,8 +54,6 @@ In this module, we will expand the lessons of Module 1 to composite hypotheses f
 
 ### Week 3 | t-Tests and Two Samples Tests
 
-In this module, we will learn about the chi-squared and t distributions and their relationships to sampling distributions. We will learn to identify when hypothesis tests based on these distributions are appropriate. We will review the concept of sample variance and derive the “t-test”. Additionally, we will derive our first two-sample test and apply it to make some decisions about real data.
-
 #### Learning Objectives
 
 - Derive and perform a two-sample test to compare population proportions.
@@ -72,7 +68,6 @@ In this module, we will learn about the chi-squared and t distributions and thei
 
 ### Week 4 | Beyond Normality
 
-In this module, we will consider some problems where the assumption of an underlying normal distribution is not appropriate and will expand our ability to construct hypothesis tests for this case. We will define the concept of a “uniformly most powerful” (UMP) test, whether or not such a test exists for specific problems, and we will revisit some of our earlier tests from Modules 1 and 2 through the UMP lens. We will also introduce the F-distribution and its role in testing whether or not two population variances are equal.
 
 #### Learning Objectives
 
@@ -91,7 +86,6 @@ In this module, we will consider some problems where the assumption of an underl
 
 ### Week 5 |  Likelihood Ratio Tests and Chi-Squared Tests
 
-In this module, we develop a formal approach to hypothesis testing, based on a “likelihood ratio” that can be more generally applied than any of the tests we have discussed so far. We will pay special attention to the large sample properties of the likelihood ratio, especially Wilks’ Theorem, that will allow us to come up with approximate (but easy) tests when we have a large sample size. We will close the course with two chi-squared tests that can be used to test whether the distributional assumptions we have been making throughout this course are valid.
 
 #### Learning Objectives
 
@@ -109,7 +103,7 @@ In this module, we develop a formal approach to hypothesis testing, based on a �
 
 ### Week 6 | Final Exam
 
-You will complete a proctored exam worth 21% of your grade made up of multiple choice and free response questions. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+I have completed a proctored exam worth 21% of my grade made up of multiple choice and free response questions.
 
 
 ## References
