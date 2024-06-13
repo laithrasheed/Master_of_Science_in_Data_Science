@@ -27,8 +27,7 @@
 
 
 
-## [Data Structures and Algorithms](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Data%20Science%20Foundations/Data%20Structures%20and%20Algorithms/Readme.md
-)
+## [Data Structures and Algorithms](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Data%20Science%20Foundations/Data%20Structures%20and%20Algorithms/Readme.md)
 
 **The specialization consists of three courses:**
 
