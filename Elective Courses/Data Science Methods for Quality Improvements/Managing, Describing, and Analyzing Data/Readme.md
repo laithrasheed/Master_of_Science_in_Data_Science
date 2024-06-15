@@ -4,7 +4,7 @@
 
 ## Brief Description
 
-- In this course, you will learn the basics of understanding the data you have and why correctly classifying data is the first step to making correct decisions. You will describe data both graphically and numerically using descriptive statistics and R software. You will learn four probability distributions commonly used in the analysis of data. You will analyze data sets using the appropriate probability distribution. Finally, you will learn the basics of sampling error, sampling distributions, and errors in decision-making.
+- In this course I have learned the basics of understanding the data I have and why correctly classifying data is the first step to making correct decisions. I  described data both graphically and numerically using descriptive statistics and R software. I learned four probability distributions commonly used in the analysis of data. I analyzed datasets using the appropriate probability distribution. Finally, I learned the basics of sampling error, sampling distributions, and errors in decision-making.
 
 ## Prior knowledge needed: 
 ##### [Statistical Inference](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Data%20Science%20Foundations/Statistical%20Inference)
@@ -26,7 +26,6 @@
 
 ### Week 1    | Data and Measurement
 
-Upon completion of this module, students will be able to use R and R Studio to work with data and classify types of data using measurement scales.
 
 #### Learning Objectives
 
@@ -47,8 +46,6 @@ Upon completion of this module, students will be able to use R and R Studio to w
 
 
 ### Week 2 | Describing Data Graphically and Numerically
-
-Upon completion of this module, students will be able to use R and RStudio to create visual representations of data, and calculate descriptive statistics to describe location, spread and shape of data. 
 
 #### Learning Objectives
 
@@ -82,8 +79,6 @@ Upon completion of this module, students will be able to use R and RStudio to cr
 
 ### Week 3  | Probability and Probability Distributions
 
-Upon completion of this module, students will be able to apply the rules and conditions of probability and probability distributions to make decisions and solve problems using R and R Studio.
-
 #### Learning Objectives
 
 - Describe the concept of probability
@@ -108,7 +103,6 @@ Upon completion of this module, students will be able to apply the rules and con
 
 ### Week 4 | Sampling Distributions, Error and Estimation
 
-Upon completion of this module, students will be able to use R and RStudio to characterize sampling and sampling distributions, error and estimation with respect to statistical inference.
 
 #### Learning Objectives
 
@@ -129,7 +123,6 @@ Upon completion of this module, students will be able to use R and RStudio to ch
    
 ### Week 5 |  Two Sample Hypothesis Testing
 
-Upon completion of this module, students will be able to use R and RStudio to perform statistical tests for two groups with independent and dependent data.
 
 #### Learning Objectives
 
@@ -157,9 +150,8 @@ Upon completion of this module, students will be able to use R and RStudio to pe
 
 ### Week 6 |  Final Exam
 
-You will complete a multiple choice exam worth 20% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a multiple choice exam worth 20% of my grade. 
 
-##### Programming Exam
 
 
 ## References
