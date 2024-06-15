@@ -4,11 +4,13 @@
 
 ## Brief Description
 
-- In this course, we will learn selected unsupervised learning methods for dimensionality reduction, clustering, finding latent features, and application cases such as recommender systems with hands-on examples of product recommendation algorithms.
+- In this course, I have learned about selected unsupervised learning methods for dimensionality reduction, clustering, finding latent features, and application cases such as recommender systems with hands-on examples of product recommendation algorithms.
 
 
 ## Prior knowledge needed: 
 ##### [Data Science Foundations ](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Data%20Science%20Foundations)
+##### [Data Mining Foundations and Practice](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Computer%20Science%20Core%20Courses/Data%20Mining%20Foundations%20and%20Practice)
+##### [Statistical Modeling for Data Science Applications](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Statistics%20Core%20Courses/Statistical%20Modeling%20for%20Data%20Science%20Applications)
 
 
 ## Learning Outcomes
@@ -24,7 +26,6 @@
 
 ### Week 1  | Unsupervised Learning Intro
 
-Now that you have a solid foundation in Supervised Learning, we shift our attention to uncovering the hidden structure from unlabeled data. We will start with an introduction to Unsupervised Learning. In this course, the models no longer have labels to learn from. They need to make sense of the data from the observations themselves. This week we are diving into Principal Component Analysis, PCA, a foundational dimension reduction technique. When you first start learning this topic, it might not seem easy. There is undoubtedly some math involved in this section. However, PCA can be grasped conceptually, perhaps more readily than anticipated. In the Supervised Learning course, we struggled with the Curse of Dimensionality. This week, we will see how PCA can reduce the number of dimensions and improve classification/regression tasks. You will have reading, a quiz, and a Jupyter notebook lab/Peer Review to implement the PCA algorithm.
 
 #### Learning Objectives
 
@@ -41,7 +42,6 @@ Now that you have a solid foundation in Supervised Learning, we shift our attent
 
 ### Week 2 | Clustering
 
-This week, we are working with clustering, one of the most popular unsupervised learning methods. Last week, we used PCA to find a low-dimensional representation of data. Clustering, on the other hand, finds subgroups among observations. We can get a meaningful intuition of the data structure or use a procedure like Cluster-then-predict. Clustering has several applications ranging from marketing customer segmentation and advertising, identifying similar movies/music, to genomics research and disease subtypes discovery. We will focus our efforts mainly on K-means clustering and hierarchical clustering with consideration to the benefits and disadvantages of both and the choice of metrics like distance or linkage. We have reading, a quiz, and a Jupyter notebook lab/Peer Review this week..
 
 #### Learning Objectives
 
@@ -56,7 +56,6 @@ This week, we are working with clustering, one of the most popular unsupervised 
 
 ### Week 3  | Recommender System
 
-This week we are working with Recommender Systems. Websites like Netflix, Amazon, and YouTube will surface personalized recommendations for movies, items, or videos. This week, we explore Recommendation Engines' strategies to predict users' likes. We will consider popularity, content-based, and collaborative filtering approaches, and what similarity metrics to use. As we work with Recommendation Systems, there are challenges, like the time complexity of operations and sparse data. This week is relatively math dense. You will have a quiz wherein you will work with different similarity metric calculations. Give yourself time for this week's Jupyter notebook lab and consider performant implementations. The Peer Review section this week is short.
 
 #### Learning Objectives
 
@@ -73,7 +72,6 @@ This week we are working with Recommender Systems. Websites like Netflix, Amazon
 
 ### Week 4 |  | Matrix Factorization
 
-We are already at the last week of course material! Get ready for another dense math week. Last week, we learned about Recommendation Systems. We used a Neighborhood Method of Collaborative Filtering, utilizing similarity measures. Latent Factor Models, including the popular Matrix Factorization (MF), can also be used for Collaborative Filtering. A 1999 publication in Nature made Non-negative Matrix Factorization extremely popular. MF has many applications, including image analysis, text mining/topic modeling, Recommender systems, audio signal separation, analytic chemistry, and gene expression analysis. For this week, we focus on Singular Value Decomposition, Non-negative Matrix Factorization, and Approximation methods. This week, we have reading, a quiz, and a Kaggle mini-project utilizing matrix factorization to categorize news articles.
 
 #### Learning Objectives
 
@@ -91,9 +89,15 @@ We are already at the last week of course material! Get ready for another dense 
 
 ### Week 5 |  Final Exam
 
-You will complete a peer reviewed final project worth 30% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a peer reviewed final project worth 30% of my grade.
+- The final project is about applying an Unsupervised ML Algorithm to a real dataset. I have selected the [Mall Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?datasetId=42674) that is hosted on Kaggle, where the goal is to get insights about the Mall's customers. Thus, I selected Clustering technique using KNN Algorithm (K-Nearest-Neighbor). Insights and Foundings are presented in the Recorded Presenation alongside with the Jupyter Notebook of the project in the Cluster Analysis section.
+-  In the below table you can find the Recorded Presenation, Jupyter Notebook, and Slides as a PDF file. 
 
-##### [Project Presentation and Documents]()
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [Mall Customers Clustering Using KNN - Recorded Presentation](https://youtu.be/vVbfagrUa5E)       |     MP4      |        A video recording where I present to the audience about my project results and conclusions    |
+| [[Mall Customers Clustering Using KNN - Presentations Slides ](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Unsupervised%20Algorithms%20in%20Machine%20Learning/DTSA_5510_Unsupervised_Learning_Final_Project_Presentation.pdf)       |     PDF      |     The PDF file is showing  the slides presented in the video recording    |
+| [Mall Customers Clustering Using KNN  - Jupyter Notebook](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Unsupervised%20Algorithms%20in%20Machine%20Learning/DTSA%205510%20Unsupervised%20Algorithms%20in%20Machine%20Learning%20Final%20Project.ipynb)       |     ipynb      |       The Jupyter Notebook shows Inisghts and Findings using KNN Clustering Analysis for the Mall Customers Dataset    | 
 
 
 ## References
