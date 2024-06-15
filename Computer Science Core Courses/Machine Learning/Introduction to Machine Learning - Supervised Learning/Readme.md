@@ -109,7 +109,7 @@
 | Document | Type | Description |
 |:------------:|:--------------:|:-------------:|
 | [Concrete Compressive Strength Prediction - Recorded Presentation](https://youtu.be/uYMXUWMUHZ0)       |     MP4      |        A video recording where I present to the audience about my project results and conclusions    |
-| [Concrete Compressive Strength Prediction - Presentations Slides ](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Machine%20Learning%20-%20Supervised%20Learning/DTSA_5509_Supervised_Learning_Final_Project_Presentation.pdf)       |     PDF      |     The PDF file is showing  the slides presented in the video recorded    |
+| [Concrete Compressive Strength Prediction - Presentations Slides ](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Machine%20Learning%20-%20Supervised%20Learning/DTSA_5509_Supervised_Learning_Final_Project_Presentation.pdf)       |     PDF      |     The PDF file is showing  the slides presented in the video recording    |
 | [Concrete Compressive Strength Prediction - Jupyter Notebook](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Machine%20Learning%20-%20Supervised%20Learning/DTSA_5509_Supervised_Learning_Final_Project.ipynb)       |     ipynb      |       The Jupyter Notebook shows EDA and ML process in Python for the Cement Manufacturing Dataset   | 
 
 
