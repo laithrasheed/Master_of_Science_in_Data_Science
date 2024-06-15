@@ -4,11 +4,13 @@
 
 ## Brief Description
 
-- In this course, we will cover the basics of deep learning, such as multilayer perceptron, convolutional neural network, recurrent neural network, how to build and train neural network models, optimization methods, and application examples.
+-  This course, covered the basics of deep learning, such as multilayer perceptron, convolutional neural network, recurrent neural network, how to build and train neural network models, optimization methods, and application examples.
 
 
 ## Prior knowledge needed: 
 ##### [Data Science Foundations ](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Data%20Science%20Foundations)
+##### [Data Mining Foundations and Practice](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Computer%20Science%20Core%20Courses/Data%20Mining%20Foundations%20and%20Practice)
+##### [Statistical Modeling for Data Science Applications](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Statistics%20Core%20Courses/Statistical%20Modeling%20for%20Data%20Science%20Applications)
 
 
 ## Learning Outcomes
@@ -27,7 +29,6 @@
 
 ### Week 1  | Deep Learning Introduction, Multilayer Perceptron
 
-We are starting off the course with a busy week. This week's module has two parts. In the first part, after a quick introduction to Deep Learning's exciting applications in self-driving cars, medical imaging, and robotics, we will learn about artificial neurons called perceptrons. Interestingly, neural networks are loosely modeled on the human brain with perceptrons mimicking neurons. After we learn to train a simple perceptron (and become aware of its limitations), we will move on to more complex multilayer perceptrons. The second part of the module introduces the backpropagation algorithm, which trains a neural network through the chain rule. We will finish by learning how deep learning libraries like Tensorflow create computation graphs for gradient computation. This week, you will have two short quizzes, a Jupyter lab programming assignment, and an accompanying Peer Review assignment. This material, notably the backpropagation algorithm, is so foundational to Deep Learning that it is essential to take the time necessary to work through and understand it.
 
 #### Learning Objectives
 
@@ -44,9 +45,6 @@ We are starting off the course with a busy week. This week's module has two part
 
 ### Week 2 |  Training Neural Networks
 
-Last week, we built our Deep Learning foundation, learning about perceptrons and the backprop algorithm. This week, we are learning about optimization methods. We will start with Stochastic Gradient Descent (SGD). SGD has several design parameters that we can tweak, including learning rate, momentum, and decay. Then we will turn our attention to advanced gradient descent methods like learning rate scheduling and Nesterov momentum. Besides vanilla gradient descent, other optimization algorithms include AdaGrad, AdaDelta, RMSprop, and Adam. We will cover general tips to reduce overfitting while training neural networks, including regularization methods like dropout and batch normalization. This week, you will build your DL toolkit, gaining experience with the Python library Keras. Assessments for the week include a quiz and a Jupyter lab notebook with an accompanying Peer Review.
-
-This assignment is your last Jupyter lab notebook for the course. For the next three weeks, you will build hands-on experience and complete weekly mini-projects that incorporate Kaggle challenges.
 
 #### Learning Objectives
 
@@ -59,7 +57,6 @@ This assignment is your last Jupyter lab notebook for the course. For the next t
 
 ### Week 3  | Deep Learning on Images
 
-This module will teach a type of neural network called convolutional neural networks, suitable for image analysis tasks. We will learn about definitions, design parameters, operations, hyperparameter tuning, and applications. There is no Jupyter lab notebook this week. You will have a brief quiz and participate in a clinically relevant Kaggle challenge mini-project. It is critical to evaluate whether cancer has spread to the sentinel lymph node for staging breast cancer. You will build a CNN model to classify whether digital pathology images show that cancer has spread to the lymph nodes. This project utilizes the PCam dataset, which has an approachable size, with the authors noting that "Models can easily be trained on a single GPU in a couple of hours, and achieve competitive scores." As you prepare for the week, look over the rubric and develop a plan for how you will complete it. It will be necessary for a project like this to work on a timeframe that allows you to run experiments. The expectation is not that you will cram the equivalent of a final project into a single week or that you need to have a top leaderboard score to receive a good grade for this project. Hopefully, you will have time to achieve some exciting results to show off in your portfolio.
 
 #### Learning Objectives
 
@@ -71,13 +68,14 @@ This module will teach a type of neural network called convolutional neural netw
 
 #### Programming Assignment
 
-- Quiz, Peer Reviewed, and Programming Assignments  
+- Below table describes the **CNN** project delivered as a peer reviewed- assignemnt for this module
+
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [Cancer Detection using CNN](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Deep%20Learning/cancer-detection-cnn.ipynb)       |     ipynb      |        The project is about applying Convolutional Neural Networks (CNN) to a real dataset. I found an interesting dataset on Kaggle wcih is [Histopathologic Cancer Detection](https://www.kaggle.com/competitions/histopathologic-cancer-detection)    |
 
 ### Week 4 | Deep Learning on Sequential Data
 
-This module will teach you another neural network called recurrent neural networks (RNNs) to handle sequential data. So far, we have covered feed-forward neural networks, including Multi-layer Perceptrons and CNNs. However, in biological systems, information can flow backward and forwards. RNNs do a backward pass closer to biological systems. Using RNNs has excellent benefits, especially for text data, since RNN architectures reduce the number of parameters. We will learn about the vanishing and exploding gradient problems that can arise when working with vanilla RNNs and remedies for those problems, including GRU and LSTM cells.
-
-We don't have a quiz this week, but we have a Kaggle challenge mini-project on NLP with Disaster Tweets. The project is a Getting Started competition designed for learners building their machine learning background. The challenge is very doable in a week, but make sure to start early to run experiments and iterate a bit.
 
 #### Learning Objectives
 
@@ -87,11 +85,14 @@ We don't have a quiz this week, but we have a Kaggle challenge mini-project on N
 
 #### Programming Assignment
 
-- Quiz, Peer Reviewed, and Programming Assignments   
+- Below table describes the **RNN** project delivered as a peer reviewed- assignemnt for this module
+
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [Natural Language Processing using RNN](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Deep%20Learning/nlp-with-disaster-tweets.ipynb)       |     ipynb      |        The project is about applying Recurrent Neural Networks (RNN) to a real dataset. I found an interesting dataset on Kaggle wcih is [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview)    |
  
 ### Week 5 | Unsupervised Approaches in Deep Learning
 
-This module will focus on neural network models trained via unsupervised Learning. We will cover autoencoders and GAN as examples. We will consider the famous AI researcher Yann LeCun's cake analogy for Reinforcement Learning, Supervised Learning, and Unsupervised Learning. Supervised Deep Learning has had tremendous success, mainly due to the availability of massive datasets like ImageNet. However, it is expensive and challenging to obtain labeled data for areas like biomedical images. There is great motivation to continue developing unsupervised Deep Learning approaches to harness abundant unlabeled data sources. This week is the last week of new course material. There is no quiz or Jupyter notebook lab. Generative adversarial networks (GANs) learn to generate new data with the same statistics as the training set. This week, you will wrap up one final Kaggle mini-project. This time, you will experiment with creating a network to generate images of puppies. Keep running experiments and working on the primary analysis for your final project. Ideally, it would be excellent to finish experimenting and iterate with your models this week so that next week, you can focus on preparing your final project deliverables.
 
 #### Learning Objectives
 
@@ -102,13 +103,21 @@ This module will focus on neural network models trained via unsupervised Learnin
 
 #### Programming Assignment
 
-- Quiz, Peer Reviewed, and Programming Assignments   
+- Below table describes the **GANs** project delivered as a peer reviewed- assignemnt for this module
+
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [Computer Vision using GANs](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Deep%20Learning/DTSA_5511_Module_5_GANs_Mini_Project.ipynb)       |     ipynb      |        The project is about applying Generative Adversarial Networks (GANs) to a real dataset. I found an interesting dataset on Kaggle wcih is [I’m Something of a Painter Myself](https://www.kaggle.com/competitions/gan-getting-started). Such that, I have trained a GANs model that transform true image into a style of oil painting     |
 
 ### Week 6 |  Final Exam
 
-You will complete a peer reviewed final project worth 45% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a peer reviewed final project worth 45% of my grade.
+- The final project is about applying Deep Learning approaches for a project of my choice. I have selected the [Vehicle Type Recognition Dataset]([https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?datasetId=42674](https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition))  that is hosted on Kaggle, where the goal is to train a model that classify the vehicles to the correct classification.
+-  In the below table you can find the Jupyter Notebook for the Vehicle Type Recognition problem.
 
-##### [Project Presentation and Documents]()
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [Vehicle Type Recognition Using Different Deep Learning Models](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Deep%20Learning/DTSA-5511-Final-Project.ipynb)       |     ipynb      |       The goal is to train a model that classify the vehicles to the correct classification. I have trained six different Deep Learning appraoches and conducted a comparision between them based on the evaluation metrics for a Classification task. I have used Algorithms like CNN, and other Pre-trained Models like MobileNetV2     | 
 
 
 ## References
