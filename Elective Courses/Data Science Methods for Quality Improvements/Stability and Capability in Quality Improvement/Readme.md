@@ -4,7 +4,7 @@
 
 ## Brief Description
 
-- In this course, you will learn to analyze data in terms of process stability and statistical control and why having a stable process is imperative prior to performing statistical hypothesis testing. You will create statistical process control charts for both continuous and discrete data using R software. You will analyze data sets for statistical control using control rules based on probability. Additionally, you will learn how to assess a process with respect to how capable it is of meeting specifications, either internal or external, and make decisions about process improvement.
+In this course, I have learned to analyze data in terms of process stability and statistical control and why having a stable process is imperative prior to performing statistical hypothesis testing. I have created statistical process control charts for both continuous and discrete data using R software. I analyzed data sets for statistical control using control rules based on probability. Additionally, I learned how to assess a process with respect to how capable it is of meeting specifications, either internal or external, and make decisions about process improvement.
 
 ## Prior knowledge needed: 
 ##### [Statistical Inference](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Data%20Science%20Foundations/Statistical%20Inference)
@@ -26,7 +26,6 @@
 
 ### Week 1    | Understanding Process Variation, Process Control and Control Charts
 
-In this module, you will learn how to define a process and break it down into components for the purpose of identifying potential sources of variation. You will learn how to classify variation into common and special causes through the use of a control chart. You’ll discover the Taguchi Loss function, and how it relates to the philosophy of quality, and its association to the product control and process control cycles. You will learn the basic anatomy of a control chart as well as the process used to create a control chart, and common errors encountered when using a control chart in practice. You will be able to calculate an appropriate sample size, as well as determine when a process is in control or out of control based on statistical rules.
 
 #### Learning Objectives
 
@@ -50,7 +49,6 @@ In this module, you will learn how to define a process and break it down into co
 
 ### Week 2 | Xbar and R / Xbar and S Charts / X and MR Charts
 
-In this module, you will learn how to select the appropriate chart given information on sample size and data type. You’ll learn how to create and interpret control charts with subgroups for variables data, as well as how to create them in R. You will also create and interpret control charts with a sample size of one data that is normally distributed. You'll learn how to monitor other statistics using the Individuals and Moving Range Chart. Finally, you will interpret the control charts for statistical control / stability.
 
 #### Learning Objectives
 
@@ -78,7 +76,6 @@ In this module, you will learn how to select the appropriate chart given informa
 
 ### Week 3  | X and Moving Range Charts for Non-Normally Distributed Data
 
-In this module, you will learn how to create an X and Moving Range Chart when the underlying distribution is not normally distributed. You’ll learn how to calculate control limits for the X and MR Charts with LogNormal transformed distribution and exponential distribution. Additionally, you will learn how to fit a distribution to the data and calculate control limits associated with the selected distribution. Finally, you will interpret the control charts for statistical control / stability.
 
 #### Learning Objectives
 
@@ -104,7 +101,6 @@ In this module, you will learn how to create an X and Moving Range Chart when th
 
 ### Week 4 |  Process Capability
 
-In this module, you will learn how to compare process variation to customer specifications. You’ll learn the three indices associated with capability measures and the three indices associated with performance measures. Additionally, you will learn to assess capability and performance when the data are not normally distributed.
 
 #### Learning Objectives
 
@@ -125,7 +121,6 @@ In this module, you will learn how to compare process variation to customer spec
    
 ### Week 5 |   Control Charts for Discrete Data
 
-In this module, you will learn how to create and analyze control charts for discrete data. You will learn how to differentiate between data that are Binomial and data that are Poisson distributed in order to select the appropriate control chart. Additionally, you will learn to assess capability using an appropriate discrete probability model.
 
 #### Learning Objectives
 
@@ -166,7 +161,7 @@ In this module, you will learn how to create and analyze control charts for disc
 
 ### Week 6 |  Final Exam
 
-You will complete a multiple choice exam worth 20% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+I have completed a multiple choice exam worth 20% of my grade.
 
 ##### Programming Exam
 
