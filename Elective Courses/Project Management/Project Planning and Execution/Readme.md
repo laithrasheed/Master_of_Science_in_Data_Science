@@ -4,15 +4,18 @@
 
 ## Brief Description
 
-- The goal of this second course in a series of three is to provide students with skills necessary to plan and execute traditional engineering projects. Project managers must plan and manage complex projects constrained by time and budget. As part of this course, you will determine project schedules, budgets, and risk assessments. At the end of this course, you will be able to identify and explain various quality tools and methods used in project management.
-
+-  In this course I have learned how to identify and explain various quality tools and methods used in project management, determine project schedules, budgets, and risk assessments. 
 
 
 ## Prior knowledge needed: 
 
+##### [Project Management: Foundations and Initiation](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Project%20Management/Project%20Management%3A%20Foundations%20and%20Initiation)
 
 ## Learning Outcomes
 
+- be able to develop a project schedule.
+- be able to estimate project costs and determine a budget, as well as identify and analyze risks to the successful completion of a project
+- be able to apply quality assurance to a project and perform a project post-mortem.
 
 ## Resources
 
@@ -22,8 +25,6 @@
 
 ### Week 1    | Project Schedule
 
-In this module, you will learn the process of planning and documenting the project schedule. You will also learn how to estimate the durations of project activities.
-
 #### Learning Objectives
 - Apply Project management tools to develop a project schedule
 - Determine the critical path of a project
@@ -31,7 +32,6 @@ In this module, you will learn the process of planning and documenting the proje
 
 ### Week 2 | Project Budget and Procurement
 
-In this module, you will learn the process of planning and documenting the project budget. You will also learn how to manage the procurement process including supplier selection and management.
 
 #### Learning Objectives
 - Apply economic value to communicate project status
@@ -40,7 +40,6 @@ In this module, you will learn the process of planning and documenting the proje
 
 ### Week 3  |  Risk Planning and Management
 
-In this module, you will learn about how to identify, analyze, and mitigate potential risks to your projects.
 
 #### Learning Objectives
 - Recognize potential project risks
@@ -49,7 +48,6 @@ In this module, you will learn about how to identify, analyze, and mitigate pote
 
 ### Week 4 | Quality Management and Compliance
 
-In this module, you will learn about the importance of quality in the project as well as the steps in closing the project.
 
 #### Learning Objectives
 - Identify components of quality management plan
@@ -59,13 +57,21 @@ In this module, you will learn about the importance of quality in the project as
 
 ### Week 5 |  Final Project
 
-This module contains materials for the final project for ME-EM degree students. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+- I have completed a Peer-reviwed Project that worth 30% of my grade.
+- The final exam is about Planning and Executing the initiated project,  where I can apply knowledge and skills I learend in this course.
+- The project is located in the below table, which contains the following documents
+   - **Project Cost Estimation**
+   - **Project Post-Mortem**
+   - **Risk Register**
+   - **Project Planning and Execution**
 
-#### Learning Objectives
+| Document | Type | Description |
+|:------------:|:--------------:|:-------------:|
+| [Project Planning & Execution](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Elective%20Courses/Project%20Management/Project%20Planning%20and%20Execution/Project%20Planning%20%26%20Execution-Final%20Project-.pdf)       |     PDF      |       which is a final version and combination of all documents listed above that is being delievered as a final project.     |
+| [Project Post-Mortem](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Elective%20Courses/Project%20Management/Project%20Planning%20and%20Execution/Project_Post-Mortem.pdf)       |     PDF      |       which is a document that shows the process used to identify the causes of a project failure ( and how to prevent them in the future     |
+| [Project Cost Estimation](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Elective%20Courses/Project%20Management/Project%20Planning%20and%20Execution/Project%20Cost%20Estimation.pdf)       |     PDF      |       whcih is the cost estimated as a Budget at Completion (BAC).     |
+| [Risk Register](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Elective%20Courses/Project%20Management/Project%20Planning%20and%20Execution/Risk%20Registor%20%26%20Register.pdf)       |     PDF      |       which is a document used as a risk management tool.     |
 
-- Demonstrate mastery of the material presented in this course.
-- Reflect on lessons learned in Project Planning and Execution
-- Write effectively about the project
 
 
 ## References
