@@ -71,7 +71,7 @@
 
 | Document | Type | Description |
 |:------------:|:--------------:|:-------------:|
-| [Mohammed's Family Accommodation - Project Initiation and Planning](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Elective%20Courses/Project%20Management/Project%20Management%3A%20Foundations%20and%20Initiation/Mohamed's%20Accommodation%20Project.pdf)       |     PDF      |        This file contains the process of conducting a project charter for my project named **Mohammed's Family Accommodation**. Such that, I have designed an idea from my own where I may launch a startup that can provide services for international students to help them perform their accommodation to their destination remotely, such that clients find their new apartment to be completely ready for them.    |
+| [Mohammed's Family Accommodation - Project Initiation](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Elective%20Courses/Project%20Management/Project%20Management%3A%20Foundations%20and%20Initiation/Mohamed's%20Accommodation%20Project.pdf)       |     PDF      |        This file contains the process of conducting a project charter for my project named **Mohammed's Family Accommodation**. Such that, I have designed an idea from my own where I may launch a startup that can provide services for international students to help them perform their accommodation to their destination remotely, such that clients find their new apartment to be completely ready for them.    |
 
 
 
