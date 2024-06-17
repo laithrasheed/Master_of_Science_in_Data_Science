@@ -4,12 +4,12 @@
 
 ## Brief Description
 
-- In this course, you will learn to analyze measurement systems for process stability and statistical control and why having a stable measurement process is imperative prior to performing any statistical analysis. You will analyze continuous measurement systems and statistically characterize both accuracy and precision using R software. You will perform measurement systems analysis for potential, short term and long term statistical control and capability.
+- In this course, I have learned to analyze measurement systems for process stability and statistical control and why having a stable measurement process is imperative prior to performing any statistical analysis. I analyzed continuous measurement systems and statistically characterize both accuracy and precision using R software. I performed measurement systems analysis for potential, short term and long term statistical control and capability.
 
 ## Prior knowledge needed: 
 ##### [Statistical Inference](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Data%20Science%20Foundations/Statistical%20Inference)
 
-#### [Statistical Modeling for Data Science Applications](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Statistics%20Core%20Courses/Statistical%20Modeling%20for%20Data%20Science%20Applications)
+##### [Statistical Modeling for Data Science Applications](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Statistics%20Core%20Courses/Statistical%20Modeling%20for%20Data%20Science%20Applications)
 
 ## Learning Outcomes
 
@@ -25,7 +25,6 @@
 
 ### Week 1    | Correlation and Association
 
-In this module, we will learn to identify, characterize and analyze relationships between two variables. We will first learn about the correlation between two continuous variables and tests for significance. Next, we will learn about correlation for ordinal variables, and association for one nominal and one continuous variable. Finally, we will learn to assess the relationship for two nominal variables.
 
 #### Learning Objectives
 
@@ -49,7 +48,6 @@ In this module, we will learn to identify, characterize and analyze relationship
 
 ### Week 2 | The One Way Analysis of Variance (ANOVA) for Fixed and Random Effects
 
-In this module, you will learn how to select the appropriate chart given information on sample size and data type. You’ll learn how to create and interpret control charts with subgroups for variables data, as well as how to create them in R. You will also create and interpret control charts with a sample size of one data that is normally distributed. You'll learn how to monitor other statistics using the Individuals and Moving Range Chart. Finally, you will interpret the control charts for statistical control / stability.
 
 #### Learning Objectives
 
@@ -73,7 +71,6 @@ In this module, you will learn how to select the appropriate chart given informa
 
 ### Week 3  |  Introduction to Measurement Systems Analysis for Continuous Data, Potential Studies for Continuous Data
 
-In this module, we will understand the terms and concepts associated with measurement systems analysis and analyze measurement error to determine the potential capability of a measurement system. We will explore the guidelines for measurement systems analyses and the equations for measurement error and capability. We will then calculate the sources of variation from the ANOVA determine the largest sources of variation, and determine capability in comparison to both process variation and specification tolerance. Finally, we'll create data visualizations, and interpret the results of the analysis.
 
 #### Learning Objectives
 
@@ -97,8 +94,6 @@ In this module, we will understand the terms and concepts associated with measur
 
 ### Week 4 | Short Term and Long Term Studies for Continuous Data
 
-In this module, we will analyze measurement error to determine the short and long-term capability of a measurement system. We will build on what we have learned in the previous module, adding the evaluation of the underlying assumptions of normality, independence of part size/magnitude and measurement error, and stability of measurement error. We'll perform an ANOVA to determine sources of variation along with the determination of gauge discrimination. Finally, we'll create data visualizations, and interpret the results of the analysis.
-
 #### Learning Objectives
 
 - Differentiate between potential and short term studies
@@ -118,7 +113,6 @@ In this module, we will analyze measurement error to determine the short and lon
    
 ### Week 5 |   Measurement Systems Analysis for Discrete Data
 
-In this module, we will analyze a discrete measurement system to determine agreement, consistency, and validity. We will first familiarize ourselves with the terms, definitions, and procedures associated with Discrete Measurement Systems Analysis. Next, we will explore the measurement of agreement using the Kappa statistic and the measure of disagreement using the test of symmetry. We will then learn to perform analyses for concordance with two appraisers and two categories, two appraisers more than two categories, and more than two appraisers. We will analyze appraisers for internal consistency. Finally, we'll assess validity (concordance with a standard).
 
 #### Learning Objectives
 
@@ -143,7 +137,7 @@ In this module, we will analyze a discrete measurement system to determine agree
 
 ### Week 6 |  Final Exam
 
-You will complete a multiple choice exam worth 20% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+I have completed a multiple choice exam worth 20% of my grade.
 
 ##### Programming Exam
 
