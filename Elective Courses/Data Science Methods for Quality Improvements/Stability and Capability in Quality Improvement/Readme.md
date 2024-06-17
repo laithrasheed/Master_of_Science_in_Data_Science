@@ -9,7 +9,7 @@
 ## Prior knowledge needed: 
 ##### [Statistical Inference](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Data%20Science%20Foundations/Statistical%20Inference)
 
-#### [Statistical Modeling for Data Science Applications](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Statistics%20Core%20Courses/Statistical%20Modeling%20for%20Data%20Science%20Applications)
+##### [Statistical Modeling for Data Science Applications](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Statistics%20Core%20Courses/Statistical%20Modeling%20for%20Data%20Science%20Applications)
 
 ## Learning Outcomes
 
