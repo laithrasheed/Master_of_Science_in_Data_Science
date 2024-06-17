@@ -4,7 +4,7 @@
 
 ## Brief Description
 
-- The goal of this third course in a series of three examines the philosophy and process of managing projects using Agile project management. Students in this course will learn the Agile philosophy and process including the Scrum framework, sprints, and user stories. Upon completion of this course, you will be able to distinguish between traditional and agile project management methodologies and understand the benefits of delivering value early in an engineering project.
+- In this course, I learned how to distinguish between traditional and agile project management methodologies, and to understand the benefits of delivering value early in an engineering project.
 
 
 
@@ -13,6 +13,9 @@
 
 ## Learning Outcomes
 
+- be able to distinguish between Agile and predictive project management methodologies.
+- be able to describe the roles and responsibilities of different members of an agile team and implement agile tools.
+- be able to identify agile organizations and styles of leadership.
 
 ## Resources
 
@@ -22,7 +25,6 @@
 
 ### Week 1    | Agile Project Management
 
-In this module, you will learn how this course is structured and assessed. You will also explore the history of Agile project management and how it differs from other project management methodologies. We will explore the values and principles of Agile and examine different agile frameworks.
 
 #### Learning Objectives
 
@@ -32,7 +34,6 @@ In this module, you will learn how this course is structured and assessed. You w
 
 ### Week 2 | The Agile Process
 
-In this module, you will learn the fundamentals of the Agile Sprint and the Scrum Process including the roles of teams and the tools they use.
 
 #### Learning Objectives
 
@@ -42,7 +43,6 @@ In this module, you will learn the fundamentals of the Agile Sprint and the Scru
 
 ### Week 3  |  The Agile Organization
 
-In this module, you will learn to apply agile values and principles within an organizational context.
 
 #### Learning Objectives
 
@@ -53,13 +53,8 @@ In this module, you will learn to apply agile values and principles within an or
 
 ### Week 5 |  Final Project
 
-In this end of course module, you will reflect upon what you have learned in the project management specialization.
+- I have completed a proctored multiple choice exam that worth 35% of my grade.
 
-#### Learning Objectives
-
-- Develop project presentation skills
-- Reflect on lessons learned in the Project Management specialization
-- Synthesize project management concepts
 
 
 ## References
