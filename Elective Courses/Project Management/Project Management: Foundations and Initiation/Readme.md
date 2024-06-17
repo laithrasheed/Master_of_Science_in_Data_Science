@@ -4,13 +4,16 @@
 
 ## Brief Description
 
-- The goal of this introductory course in a series of three is to provide students the foundational knowledge of how engineering projects are managed and initiated. Engineering project managers are responsible for project scope, stakeholder management, effective communication, and team leadership. In this course you will develop introductory skills needed to manage traditional engineering projects, along with tools needed to engage stakeholders and build diverse teams.
+- In this course I haved developed introductory skills needed to manage traditional engineering projects, along with tools needed to engage stakeholders and build diverse teams.
 
 ## Prior knowledge needed: 
 
 
 ## Learning Outcomes
 
+- be able to define the role of a project manager and describe different project management methods.
+- be able to produce a project charter and a stakeholder analysis.
+- be able to form a successful project team and determine project resources.
 
 ## Resources
 
@@ -20,7 +23,6 @@
 
 ### Week 1    | Project Management and the Role of the Project Manager
 
-In this module, you will learn how this course is structured and assessed. You will also be introduced to the practice of project management and the role of the project manager.
 
 #### Learning Objectives
 
@@ -30,7 +32,6 @@ In this module, you will learn how this course is structured and assessed. You w
 
 ### Week 2 | Starting the Project: Project Scope
 
-delivered with the specified features and functions. You will also learn to develop a team charter.
 
 #### Learning Objectives
 
@@ -40,7 +41,6 @@ delivered with the specified features and functions. You will also learn to deve
 
 ### Week 3  |  Managing Stakeholders and Communications
 
-In this module, you will learn the framework for analyzing and communicating with project stakeholders.
 
 #### Learning Objectives
 
@@ -51,7 +51,6 @@ In this module, you will learn the framework for analyzing and communicating wit
 
 ### Week 4 | Forming and Leading the Project Team
 
-In this module, you will learn the tools used in project resource management. You will also gain a better understanding of what drives team performance and how to lead a high-performing project team.
 
 #### Learning Objectives
 
@@ -62,13 +61,10 @@ In this module, you will learn the tools used in project resource management. Yo
 
 ### Week 6 |  Final Project
 
-This module contains materials for the final project for ME-EM degree students. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
-
-#### Learning Objectives
-
-- Demonstrate mastery of the material presented in this course.
-- Write effectively about the project
-- Reflect on lessons learned about project foundations and initiation
+- I have completed a Peer-reviwed Project that worth 30% of my grade.
+- The final exam is about initiating an Engineering Project from my choice, where I can apply knowledge and skills I learend in this course.
+- The final exam is divided into two parts:
+  - fkflf 
 
 
 
