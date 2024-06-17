@@ -4,7 +4,7 @@
 
 ## Brief Description
 
-- In this course I have learned the basics of understanding the data I have and why correctly classifying data is the first step to making correct decisions. I  described data both graphically and numerically using descriptive statistics and R software. I learned four probability distributions commonly used in the analysis of data. I analyzed datasets using the appropriate probability distribution. Finally, I learned the basics of sampling error, sampling distributions, and errors in decision-making.
+- In this course I have learned the basics of understanding the data I have, and why correctly classifying data is the first step to making correct decisions. I  described data both graphically and numerically using descriptive statistics and R software. I learned four probability distributions commonly used in the analysis of data. I analyzed datasets using the appropriate probability distribution. Finally, I learned the basics of sampling error, sampling distributions, and errors in decision-making.
 
 ## Prior knowledge needed: 
 ##### [Statistical Inference](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Data%20Science%20Foundations/Statistical%20Inference)
@@ -44,6 +44,7 @@
 
 #### Programming Assignment
 
+- Programming Assignments 
 
 ### Week 2 | Describing Data Graphically and Numerically
 
