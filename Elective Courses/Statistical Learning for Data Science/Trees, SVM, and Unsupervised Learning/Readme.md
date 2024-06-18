@@ -23,19 +23,9 @@
 
 ## Course Content
 
-### Week 1    | Welcome 
 
-The module provides an introductory overview of the course and introduces the course instructor.
+### Week 1 |  Support Vector Machines (SVMs)
 
-#### Learning Objectives
-
-
-#### Programming Assignment
-
-
-### Week 2 |  Support Vector Machines (SVMs)
-
-To begin the course, we will learn about support vector machines (SVMs). SVMs have become a popular method in the field of statistical learning due to their ability to handle non-linear and high-dimensional data. SVMs seek to maximize the margin, or distance between the decision boundary and the closest data points, to improve generalization performance. Throughout the week, you will learn how to apply SVMs to classify or predict outcomes in a given dataset, select appropriate kernel functions and parameters, and evaluate model performance 
 
 #### Learning Objectives
 
@@ -47,9 +37,8 @@ To begin the course, we will learn about support vector machines (SVMs). SVMs ha
 
 - Programming Assignments 
 
-### Week 3   |  Introduction to Neural Networks
+### Week 2   |  Introduction to Neural Networks
 
-Neural Networks have become increasingly popular in the field of statistical learning due to their ability to model complex relationships in data. In this module, we will cover introductory concepts of neural networks, such as activation functions and backpropagation. You will have the opportunity to apply Neural Networks to classify or predict outcomes in a given dataset and evaluate model performance in the labs for this module.
 
 #### Learning Objectives
 
@@ -61,9 +50,8 @@ Neural Networks have become increasingly popular in the field of statistical lea
 
 - Programming Assignments  
 
-### Week 4 | Decision Trees
+### Week 3 | Decision Trees
 
-Welcome to the final module for the course. This module will focus on the ensemble methods decision trees, bagging, and random forests, which combine multiple models to improve prediction accuracy and reduce overfitting. Decision Trees are a popular machine learning method that partitions the feature space into smaller regions and models the response variable in each region using simple rules. However, Decision Trees can suffer from high variance and instability, which can be addressed by Bagging and Random Forests. Bagging involves generating multiple trees on bootstrapped samples of the data and averaging their predictions, while Random Forests further decorrelate the trees by randomly selecting subsets of features for each tree.
 
 #### Learning Objectives
 
@@ -77,11 +65,10 @@ Welcome to the final module for the course. This module will focus on the ensemb
 - Programming Assignments 
    
 
-### Week 5 |  Final Exam
+### Week 4 |  Final Exam
 
-You will complete a programming assignment and multiple choice exam worth 25% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+I have completed a programming assignment and multiple choice exam worth 25% of my grade.
 
-##### Programming Exam
 
 
 ## References
