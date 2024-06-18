@@ -2,7 +2,8 @@
 
 # Data Science Foundations
 
-**The two pathway specializations representing foundation for the MSDS Degree are *Data Structures and Algorithms* and *Statistical Inference***
+**There are two pathway specializations representing  the foundation for the MSDS Degree, *Data Structures and Algorithms* and *Statistical Inference***
+
 
 
 
