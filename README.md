@@ -10,26 +10,23 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 
                       
 [here](#1-probability-theory---foundation-to-data-science)
-
-
+......
 
 
 ## Data Science Foundations
 
 **There are two pathway specializations representing  the foundation for the MSDS Degree, *Data Structures and Algorithms* and *Statistical Inference***
 
-
+<br>
 
 
 ### [Statistical Inference](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Data%20Science%20Foundations/Statistical%20Inference/Readme.md)
 
 
 **The specialization consists of three courses:**
-
 #### [(1) Probability Theory - Foundation to Data Science](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Data%20Science%20Foundations/Statistical%20Inference/Probability%20Theory%20-%20Foundation%20to%20Data%20Science)
 
 - I have completed a proctored exam worth 22% of my grade made up of multiple choice and free response questions.
-
 
 #### [(2) Statistical Inference for Estimation in Data Science](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Data%20Science%20Foundations/Statistical%20Inference/Statistical%20Inference%20for%20Estimation%20in%20Data%20Science)
 
@@ -39,7 +36,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 
 - I have completed a proctored exam worth 21% of my grade made up of multiple choice and free response questions.
 
-
+<br>
 
 ### [Data Structures and Algorithms](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Data%20Science%20Foundations/Data%20Structures%20and%20Algorithms/Readme.md)
 
@@ -61,14 +58,12 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 - I have completed a programming assignment worth 10% of my grade.
 - The assignment is intended to reflect learned knowledge through out the course. Such as Divide and Conquer Algorithms, Dynamic Programming Algorithms, Greedy Algorithms, and Intractability and Supplement in Quantum Computing.
 
-
-
+<br>
 
 ## Vital Skills for Data Science
 
 
 **The specialization consists of four courses:**
-
 #### [(1) Data Science as a Field](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Vital%20Skills%20for%20Data%20Science/Data%20Science%20as%20a%20Field)
 
 - I have completed a peer reviewed project worth 20% of my grade.
@@ -82,6 +77,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 | [COVID-19 Dataset](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Vital%20Skills%20for%20Data%20Science/Data%20Science%20as%20a%20Field/Final-Project-Submission-of-COVID-19-Data-Set.pdf)       |     PDF      |        The PDF file shows R scripts for the skills applied through out the course using the COVID-19 Dataset    |
 | [NYPD Shooting Incidents Dataset](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Vital%20Skills%20for%20Data%20Science/Data%20Science%20as%20a%20Field/NYPD%20Shooting%20Incidents%20Presentation.pdf)       |     PDF      |      The PDF file reflects learning outcomes and applied skills I learned through out the course using the NYPD Shooting incidents dataset   |
 
+<br>
 
 #### [(2) Fundamentals of Data Visualization](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Vital%20Skills%20for%20Data%20Science/Fundamentals%20of%20Data%20Visualization)
 
@@ -93,12 +89,14 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 |:------------:|:--------------:|:-------------:|
 | [Fundamentals of Visualization Using Tableau](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Vital%20Skills%20for%20Data%20Science/Fundamentals%20of%20Data%20Visualization/Final%20Project%20Delivery%20for%20Fundamentals%20of%20Visualization%20Course.pdf)       |     PDF      |        The PDF file shows Story Telling Dashboard using Tableau for the EDA results of the World Happiness Score 2016 Dataset    |
 
+<br>
 
 #### [(3) Ethical Issues in Data Science](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Vital%20Skills%20for%20Data%20Science/Ethical%20Issues%20in%20Data%20Science)
 
 - I have completed a peer reviewed essay worth 35% of my grade.
 - The essay is about discussing with my peers about **Ethical Issues of Using AI in the Healthcare Field**
 
+<br>
 
 #### [(4) Cybersecurity for Data Science](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Vital%20Skills%20for%20Data%20Science/Cybersecurity%20for%20Data%20Science)
 
@@ -114,7 +112,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 | [Presentation of 5 Question I would ask to a cybersecurity practitioner](https://youtu.be/IBS8otIF6M8) | MP4 | Recorded Presenation about 5 questions I would ask for a cybersecurity practitioner |
 
 
-
+<br>
 
 ## Statistics Core Courses
 
@@ -141,7 +139,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 - I have completed a proctored exam worth 20% of my grade made up of multiple choice questions.
 
 
-
+<br>
 
 ## Computer Science Core Courses
 
@@ -180,6 +178,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 | [SQL Queries - Northwinds RDBM](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Databases%20for%20Data%20Scientists/The%20Structured%20Query%20Language%20(SQL)/SQL%20Final%20Project.pdf)       |     PDF      |       The PDF file shows 3 Analytical Questions I have created from my own where I need to reflect what I have learned during the course    |
 
 
+<br>
 
 ### [Data Mining Foundations and Practice](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Computer%20Science%20Core%20Courses/Data%20Mining%20Foundations%20and%20Practice)
 
@@ -210,7 +209,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 | [Project Report](https://github.com/laithrasheed/MSDS_Program_Private/blob/main/Computer%20Science%20Core%20Courses/Data%20Mining%20Foundations%20and%20Practice/Data%20Mining%20Project/Deep%20Learning%20on%20Traffic%20Prediction%20-%20Final%20Report.pdf)       |     PDF      |       The report is an ACM formatted papaer aimed to present more scientific details about the project   |
 | [Jupyter Notebook - Python](https://github.com/laithrasheed/MSDS_Program_Private/blob/main/Computer%20Science%20Core%20Courses/Data%20Mining%20Foundations%20and%20Practice/Data%20Mining%20Project/Deep%20Learning%20on%20Traffic%20PRediction%20-%20CNN%20.ipynb)       |     ipynb      |       The notebook presents the implementation of GRU and CNN Algorithms to the Transportation Engineering Dataset in Python  |
 
-
+<br>
 
 ### [Machine Learning](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Computer%20Science%20Core%20Courses/Machine%20Learning)
 
@@ -229,7 +228,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 | [Concrete Compressive Strength Prediction - Jupyter Notebook](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Machine%20Learning%20-%20Supervised%20Learning/DTSA_5509_Supervised_Learning_Final_Project.ipynb)       |     ipynb      |       The Jupyter Notebook shows EDA and ML process in Python for the Cement Manufacturing Dataset   | 
 
 
-
+<br>
 
 #### [(2) Unsupervised Algorithms in Machine Learning](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Unsupervised%20Algorithms%20in%20Machine%20Learning)
 
@@ -244,7 +243,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 | [Mall Customers Clustering Using KNN  - Jupyter Notebook](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Unsupervised%20Algorithms%20in%20Machine%20Learning/DTSA%205510%20Unsupervised%20Algorithms%20in%20Machine%20Learning%20Final%20Project.ipynb)       |     ipynb      |       The Jupyter Notebook shows Inisghts and Findings using KNN Clustering Analysis for the Mall Customers Dataset    | 
 
 
-
+<br>
 
 #### [(3) Introduction to Deep Learning](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Deep%20Learning)
 
@@ -256,16 +255,20 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 | [Natural Language Processing using RNN](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Deep%20Learning/nlp-with-disaster-tweets.ipynb)       |     ipynb      |        The project is about applying Recurrent Neural Networks (RNN) to a real dataset. I found an interesting dataset on Kaggle wcih is [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview)    |
 | [Computer Vision using GANs](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Deep%20Learning/DTSA_5511_Module_5_GANs_Mini_Project.ipynb)       |     ipynb      |        The project is about applying Generative Adversarial Networks (GANs) to a real dataset. I found an interesting dataset on Kaggle which is [I’m Something of a Painter Myself](https://www.kaggle.com/competitions/gan-getting-started). Such that, I have trained a GANs model that transform true image into a style of oil painting     |
 
+<br>
+
 - I have completed a peer reviewed final project worth 45% of my grade.
 - The final project is about applying Deep Learning approaches for a project of my choice. I have selected the [Vehicle Type Recognition Dataset]([https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python?datasetId=42674](https://www.kaggle.com/datasets/kaggleashwin/vehicle-type-recognition))  that is hosted on Kaggle, where the goal is to train a model that classify the vehicles to the correct classification.
 -  In the below table you can find the Jupyter Notebook for the Vehicle Type Recognition problem.
+
+<br>
 
 | Document | Type | Description |
 |:------------:|:--------------:|:-------------:|
 | [Vehicle Type Recognition Using Different Deep Learning Models](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Deep%20Learning/DTSA-5511-Final-Project.ipynb)       |     ipynb      |       The goal is to train a model that classify the vehicles to the correct classification. I have trained six different Deep Learning appraoches and conducted a comparision between them based on the evaluation metrics for a Classification task. I have used Algorithms like CNN, and other Pre-trained Models like MobileNetV2     | 
 
 
-
+<br>
 
 ## Elective Courses
 
@@ -290,7 +293,7 @@ I have completed a multiple choice exam worth 20% of my grade.
 
 I have completed a multiple choice exam worth 20% of my grade. 
 
-
+<br>
 
 ### [Statistical Learning for Data Science](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Statistical%20Learning%20for%20Data%20Science)
 
@@ -311,7 +314,7 @@ I have completed a multiple choice exam worth 25% of my grade.
 - I have completed a programming assignment and multiple choice exam worth 25% of my grade.
 
 
-
+<br>
 
 ### [Project Management](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Project%20Management)
 
@@ -327,10 +330,13 @@ I have completed a multiple choice exam worth 25% of my grade.
    - **Stakeholder Register**, which is a document that describes who is affected by the project, and their effect and impact on the project.
    - **Resource Requirements**, which is representing an intial resources plan for the project.
 
+<br>
+
 | Document | Type | Description |
 |:------------:|:--------------:|:-------------:|
 | [Mohammed's Family Accommodation - Project Initiation](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Elective%20Courses/Project%20Management/Project%20Management%3A%20Foundations%20and%20Initiation/Mohamed's%20Accommodation%20Project.pdf)       |     PDF      |        This file contains the process of conducting a project charter for my project named **Mohammed's Family Accommodation**. Such that, I have designed an idea from my own where I may launch a startup that can provide services for international students to help them perform their accommodation to their destination remotely, such that clients find their new apartment to be completely ready for them.    |
 
+<br>
 
 #### [(2) Project Planning and Execution](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Project%20Management/Project%20Planning%20and%20Execution)
 
@@ -342,6 +348,8 @@ I have completed a multiple choice exam worth 25% of my grade.
    - **Risk Register**
    - **Project Planning and Execution**
 
+<br>
+
 | Document | Type | Description |
 |:------------:|:--------------:|:-------------:|
 | [Project Planning & Execution](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Elective%20Courses/Project%20Management/Project%20Planning%20and%20Execution/Project%20Planning%20%26%20Execution-Final%20Project-.pdf)       |     PDF      |       which is a final version and combination of all documents listed above that is being delievered as a final project.     |
@@ -350,7 +358,7 @@ I have completed a multiple choice exam worth 25% of my grade.
 | [Risk Register](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Elective%20Courses/Project%20Management/Project%20Planning%20and%20Execution/Risk%20Registor%20%26%20Register.pdf)       |     PDF      |       which is a document used as a risk management tool.     |
 
 
-
+<br>
 
 
 #### [(3) Agile Project Management](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Project%20Management/Agile%20Project%20Management)
