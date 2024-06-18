@@ -4,7 +4,7 @@
 
 ## Brief Description
 
-- Introduction to the analysis of variance (ANOVA), analysis of covariance (ANCOVA), and experimental design. ANOVA and ANCOVA, presented as a type of linear regression model, provide mathematical basis for designing experiments for data science applications. Emphasis placed on important design-related concepts, such as randomization, blocking, factorial design, and causality. Attention will also be given to ethical issues raised in experimentation.
+- Introduction to the analysis of variance (ANOVA), analysis of covariance (ANCOVA), and experimental design. ANOVA and ANCOVA, presented as a type of linear regression model, provide mathematical basis for designing experiments for data science applications. Emphasis placed on important design-related concepts, such as randomization, blocking, factorial design, and causality.
 
 
 ## Prior knowledge needed: 
@@ -32,7 +32,6 @@
 
 ### Week 1   |  Introduction to ANOVA and Experimental Design
 
-In this module, we will introduce the basic conceptual framework for experimental design and define the models that will allow us to answer meaningful questions about the differences between group means with respect to a continuous variable. Such models include the one-way Analysis of Variance (ANOVA) and Analysis of Covariance (ANCOVA) models.
 
 #### Learning Objectives
 
@@ -49,7 +48,6 @@ In this module, we will introduce the basic conceptual framework for experimenta
 
 ### Week 2 |  Hypothesis Testing in the ANOVA Context
 
-In this module, we will learn how statistical hypothesis testing and confidence intervals, in the ANOVA/ANCOVA context, can help answer meaningful questions about the differences between group means with respect to a continuous variable.
 
 #### Learning Objectives
 
@@ -68,7 +66,6 @@ In this module, we will learn how statistical hypothesis testing and confidence 
 
 ### Week 3   | Two-Way ANOVA and Interactions
 
-In this module, we will study the two-way ANOVA model and use it to answer research questions using real data.
 
 #### Learning Objectives
 
@@ -89,7 +86,6 @@ In this module, we will study the two-way ANOVA model and use it to answer resea
 
 ### Week 4 | Experimental Design: Basic Concepts and Designs
 
-In this module, we will study fundamental experimental design concepts, such as randomization, treatment design, replication, and blocking. We will also look at basic factorial designs as an improvement over elementary “one factor at a time” methods. We will combine these concepts with the ANOVA and ANCOVA models to conduct meaningful experiments.
 
 #### Learning Objectives
 
@@ -108,9 +104,8 @@ In this module, we will study fundamental experimental design concepts, such as 
 
 ### Week 5 |  Final Exam
 
-You will complete a proctored exam worth 20% of your grade made up of multiple choice questions. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+I have completed a proctored exam worth 20% of my grade made up of multiple choice questions.
 
-##### Proctored Exam
 
 
 ## References
