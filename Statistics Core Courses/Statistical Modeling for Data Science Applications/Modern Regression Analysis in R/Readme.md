@@ -4,7 +4,7 @@
 
 ## Brief Description
 
-- Modern Regression Analysis in R provides foundational statistical modeling tools for data science. Introduction to methods, theory, and applications of linear statistical models, covering the topics of parameter estimation, residual diagnostics, goodness of fit, and various strategies for variable selection and model comparison. Attention will also be given to the misuse of statistical models and ethical implications of such misuse.
+- Modern Regression Analysis in R provided me foundational statistical modeling tools for data science, introduction to methods, theory, and applications of linear statistical models, covering the topics of parameter estimation, residual diagnostics, goodness of fit, and various strategies for variable selection and model comparison.
 
 
 ## Prior knowledge needed: 
@@ -32,8 +32,6 @@
 
 ### Week 1   | Introduction to Statistical Models
 
-In this module, we will introduce the basic conceptual framework for statistical modeling in general, and linear statistical models in particular.
-
 #### Learning Objectives
 
 - Recognize research questions that can be answered using statistical modeling techniques, including linear regression models.
@@ -52,7 +50,6 @@ In this module, we will introduce the basic conceptual framework for statistical
 
 ### Week 2 | Linear Regression Parameter Estimation
 
-In this module, we will learn how to fit linear regression models with least squares. We will also study the properties of least squares, and describe some goodness of fit metrics for linear regression models..
 
 #### Learning Objectives
 
@@ -73,7 +70,6 @@ In this module, we will learn how to fit linear regression models with least squ
 
 ### Week 3  |  Inference in Linear Regression
 
-In this module, we will study the uses of linear regression modeling for justifying inferences from samples to populations.
 
 #### Learning Objectives
 
@@ -96,7 +92,6 @@ In this module, we will study the uses of linear regression modeling for justify
 
 ### Week 4 | Prediction and Explanation in Linear Regression Analysis
 
-In this module, we will identify how models can predict future values, as well as construct confidence intervals for those values. We will also explore the relationship between statistical modelling and causal explanations.
 
 #### Learning Objectives
 
@@ -116,7 +111,7 @@ In this module, we will identify how models can predict future values, as well a
  
 ### Week 5 | Regression Diagnostics
 
-In this module, we will learn how to diagnose issues with the fit of a linear regression model. In particular, we will use formal tests and visualizations to decide whether a linear model is appropriate for the data at hand.
+
 
 #### Learning Objectives
 
@@ -138,7 +133,6 @@ In this module, we will learn how to diagnose issues with the fit of a linear re
 
 ### Week 6 | Model Selection and Multicollinearity
 
-In this module, we will study methods for model selection and model improvement.. In particular, we will learn when and how to apply model selection techniques such as forward selection and backward selection, criterion-based methods, and will learn about the problem of multicollinearity (also called collinearity).
 
 #### Learning Objectives
 
@@ -155,9 +149,7 @@ In this module, we will study methods for model selection and model improvement.
 
 ### Week 7 |  Final Exam
 
-You will complete a proctored exam worth 20% of your grade made up of multiple choice questions. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
-
-##### Proctored Exam
+I have completed a proctored exam worth 20% of my grade made up of multiple choice questions.
 
 
 ## References
