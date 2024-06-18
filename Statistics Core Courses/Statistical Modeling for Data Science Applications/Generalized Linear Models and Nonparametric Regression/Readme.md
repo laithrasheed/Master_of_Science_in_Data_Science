@@ -4,8 +4,7 @@
 
 ## Brief Description
 
-- Generalized Linear Models and Nonparametric Regression teaches generalized linear models (GLMs), which provide an introduction to classification (through logistic regression); nonparametric modeling, including kernel estimators, smoothing splines; and semi-parametric generalized additive models (GAMs). Emphasis will be placed on a firm conceptual understanding of these tools. Attention will also be given to ethical issues raised by using complicated statistical models.
-
+In this course I learned about an introduction to classification through logistic regression, nonparametric modeling, including kernel estimators, smoothing splines, and semi-parametric generalized additive models (GAMs). Emphasis was  placed on a firm conceptual understanding of these tools.
 
 ## Prior knowledge needed: 
 ##### [Statistical Inference](https://github.com/laithrasheed/MSDS_Program_Private/tree/main/Data%20Science%20Foundations/Statistical%20Inference)
@@ -32,7 +31,6 @@
 
 ### Week 1   |  An Introduction to Generalized Linear Models Through Binomial Regression
 
-In this module, we will introduce generalized linear models (GLMs) through the study of binomial data. In particular, we will motivate the need for GLMs; introduce the binomial regression model, including the most common binomial link functions; correctly interpret the binomial regression model; and consider various methods for assessing the fit and predictive power of the binomial regression model.
 
 #### Learning Objectives
 
@@ -56,7 +54,6 @@ In this module, we will introduce generalized linear models (GLMs) through the s
 
 ### Week 2 |  | Models for Count Data
 
-In this module, we will consider how to model count data. When the response variable is a count of some phenomenon, and when that count is thought to depend on a set of predictors, we can use Poisson regression as a model. We will describe the Poisson regression in some detail and use Poisson regression on real data. Then, we will describe situations in which Poisson regression is not appropriate, and briefly present solutions to those situations.
 
 #### Learning Objectives
 
@@ -74,7 +71,6 @@ In this module, we will consider how to model count data. When the response vari
 
 ### Week 3   |  Introduction to Nonparametric Regression
 
-In this module, we will introduce the concept of a nonparametric regression model. We will contrast this notion with the parametric models that we have studied so far. Then, we’ll study particular nonparametric regression models: kernel estimators and splines. Finally, we will introduce additive models as a blending of parametric and nonparametric methods.
 
 #### Learning Objectives
 
@@ -96,7 +92,6 @@ In this module, we will introduce the concept of a nonparametric regression mode
 
 ### Week 4 |  Introduction to Generalized Additive Models
 
-Some models, such as linear regression, are easily interpretable, but inflexible, in that they don't capture many real-world relationships accurately. Other models, such as neural networks, are quite flexible, but very difficult to interpret. Generalized additive models (GAMs) are a nice balance between flexibility and interpretability. In this module, we will further motivate GAMs, learn the basic mathematics of fitting GAMs, and implementing them on simulated and real data in R.
 
 #### Learning Objectives
 
@@ -117,9 +112,8 @@ Some models, such as linear regression, are easily interpretable, but inflexible
 
 ### Week 5 |  Final Exam
 
-You will complete a proctored exam worth 20% of your grade made up of multiple choice questions. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
+I have completed a proctored exam worth 20% of my grade made up of multiple choice questions.
 
-##### Proctored Exam
 
 
 ## References
