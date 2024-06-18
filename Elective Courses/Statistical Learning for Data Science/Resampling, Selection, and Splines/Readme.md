@@ -25,7 +25,6 @@
 
 ### Week 1    | Welcome and Review
 
-Welcome to our Resampling, Selection, and Splines class! In this course, we will dive deep into these key topics in statistical learning and explore how they can be applied to data science. The module provides an introductory overview of the course and introduces the course instructor. 
 
 #### Learning Objectives
 
@@ -38,7 +37,6 @@ Welcome to our Resampling, Selection, and Splines class! In this course, we will
 
 ### Week 2 |  Generalized Least Squares
 
-In this module, we will turn our attention to generalized least squares (GLS). GLS is a statistical method that extends the ordinary least squares (OLS) method to account for heteroscedasticity and serial correlation in the error terms. Heteroscedasticity is the condition where the variance of the errors is not constant across all levels of the predictor variables, while serial correlation is the condition where the errors are correlated across time or space. GLS has many practical applications, such as in finance for modeling asset returns, in econometrics for modeling time series data, and in spatial analysis for modeling spatially correlated data. By the end of this module, you will have a good understanding of how GLS works and when it is appropriate to use it. You will also be able to implement GLS in R using the gls() function in the nlme package. 
 
 #### Learning Objectives
 
@@ -52,7 +50,6 @@ In this module, we will turn our attention to generalized least squares (GLS). G
 
 ### Week 3   |  Shrink Methods
 
-In this module, we will explore ridge regression, LASSO, and principal component analysis (PCA). These techniques are widely used for regression and dimensionality reduction tasks in machine learning and statistics.
 
 #### Learning Objectives
 
@@ -68,7 +65,6 @@ In this module, we will explore ridge regression, LASSO, and principal component
 
 ### Week 4 | Cross Validation
 
-This week, we will be exploring the concept of cross-validation, a crucial technique used to evaluate and compare the performance of different statistical learning models. We will explore different types of cross-validation techniques, including k-fold cross-validation, leave-one-out cross-validation, and stratified cross-validation. We will discuss their strengths, weaknesses, and best practices for implementation. Additionally, we will examine how cross-validation can be used for model selection and hyperparameter tuning.
 
 #### Learning Objectives
 
@@ -82,7 +78,6 @@ This week, we will be exploring the concept of cross-validation, a crucial techn
 
 ### Week 5 |   Boostrapping
 
-For our final module, we will explore bootstrapping. Bootstrapping is a resampling technique that allows us to gain insights into the variability of statistical estimators and quantify uncertainty in our models. By creating multiple simulated datasets through resampling, we can explore the distribution of sample statistics, construct confidence intervals, and perform hypothesis testing. Bootstrapping is particularly useful when parametric assumptions are hard to meet or when we have limited data. By the end of this week, you will have an understanding of bootstrapping and its practical applications in statistical learning.
 
 #### Learning Objectives
 
@@ -97,9 +92,7 @@ For our final module, we will explore bootstrapping. Bootstrapping is a resampli
 
 ### Week 6 |  Final Exam
 
-You will complete a multiple choice exam worth 25% of your grade. You must attempt the final in order to earn a grade in the course. If you've upgraded to the for-credit version of this course, please make sure you review the additional for-credit materials in the Introductory module and anywhere else they may be found.
-
-##### Programming Exam
+I have completed a multiple choice exam worth 25% of my grade.
 
 
 ## References
