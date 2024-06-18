@@ -25,7 +25,7 @@ I have completed a multiple choice exam worth 20% of my grade.
 
 
 
-## Statistical Learning for Data Science
+## [Statistical Learning for Data Science](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Statistical%20Learning%20for%20Data%20Science)
 
 **The specialization consists of three courses:**
 
