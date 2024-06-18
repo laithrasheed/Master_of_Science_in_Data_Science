@@ -25,6 +25,27 @@ I have completed a multiple choice exam worth 20% of my grade.
 
 
 
+## Statistical Learning for Data Science
+
+**The specialization consists of three courses:**
+
+### [(1) Regression and Classification](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Statistical%20Learning%20for%20Data%20Science/Regression%20and%20Classification)
+
+- I have completed a programming assignment worth 31% of my grade.
+
+
+### [(2) Resampling, Selection, and Splines](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Statistical%20Learning%20for%20Data%20Science/Resampling%2C%20Selection%2C%20and%20Splines)
+
+I have completed a multiple choice exam worth 25% of my grade.
+
+
+### [(3) Trees, SVM, and Unsupervised Learning](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Statistical%20Learning%20for%20Data%20Science/Trees%2C%20SVM%2C%20and%20Unsupervised%20Learning)
+
+- I have completed a programming assignment and multiple choice exam worth 25% of my grade.
+
+
+
+
 ## [Project Management](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Elective%20Courses/Project%20Management)
 
 **The specialization consists of three courses:**
