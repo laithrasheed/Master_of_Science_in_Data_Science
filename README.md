@@ -9,145 +9,6 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 
 
 
-<table>
-  <tr>
-    <td rowspan="6">Left Cell (6 rows)</td>
-    <td rowspan="3">Top Middle Cell (3 rows)</td>
-    <td>Top Right Cell 1</td>
-  </tr>
-  <tr>
-    <td>Right Cell 1-2</td>
-  </tr>
-  <tr>
-    <td>Right Cell 3-1</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Bottom Middle Cell (3 rows)</td>
-    <td>Bottom Right Cell 1</td>
-  </tr>
-  <tr>
-    <td>Right Cell 4-1</td>
-  </tr>
-  <tr>
-    <td>Right Cell 5-1</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td rowspan="4">Left Cell (4 rows)</td>
-    <td>Cell 1</td>
-  </tr>
-  <tr>
-    <td>Cell 2</td>
-  </tr>
-  <tr>
-    <td>Cell 3</td>
-  </tr>
-  <tr>
-    <td>Cell 4</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td rowspan="4">Left Cell (4 rows)</td>
-    <td>Cell 1</td>
-  </tr>
-  <tr>
-    <td>Cell 2</td>
-  </tr>
-  <tr>
-    <td>Cell 3</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td rowspan="9">Left Cell (9 rows)</td>
-    <td rowspan="3">Top Middle Cell (3 rows)</td>
-    <td>Top Right Cell 1</td>
-    <td>Top Right Cell 2</td>
-    <td>Top Right Cell 3</td>
-    <td>Top Right Cell 4</td>
-    <td>Top Right Cell 5</td>
-    <td>Top Right Cell 6</td>
-  </tr>
-  <tr>
-    <td>Right Cell 1-2</td>
-    <td>Right Cell 1-2</td>
-    <td>Right Cell 1-2</td>
-    <td>Right Cell 1-2</td>
-    <td>Right Cell 1-2</td>
-    <td>Right Cell 1-2</td>
-  </tr>
-  <tr>
-    <td>Right Cell 3-1</td>
-    <td>Right Cell 3-1</td>
-    <td>Right Cell 3-1</td>
-    <td>Right Cell 3-1</td>
-    <td>Right Cell 3-1</td>
-    <td>Right Cell 3-1</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Bottom Middle Cell (3 rows)</td>
-    <td>Bottom Right Cell 1</td>
-    <td>Bottom Right Cell 2</td>
-    <td>Bottom Right Cell 3</td>
-    <td>Bottom Right Cell 4</td>
-    <td>Bottom Right Cell 5</td>
-    <td>Bottom Right Cell 6</td>
-  </tr>
-  <tr>
-    <td>Right Cell 4-1</td>
-    <td>Right Cell 4-1</td>
-    <td>Right Cell 4-1</td>
-    <td>Right Cell 4-1</td>
-    <td>Right Cell 4-1</td>
-    <td>Right Cell 4-1</td>
-  </tr>
-  <tr>
-    <td>Right Cell 5-1</td>
-    <td>Right Cell 5-1</td>
-    <td>Right Cell 5-1</td>
-    <td>Right Cell 5-1</td>
-    <td>Right Cell 5-1</td>
-    <td>Right Cell 5-1</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Third Category (3 rows)</td>
-    <td>Third Right Cell 1</td>
-    <td>Third Right Cell 2</td>
-    <td>Third Right Cell 3</td>
-    <td>Third Right Cell 4</td>
-    <td>Third Right Cell 5</td>
-    <td>Third Right Cell 6</td>
-  </tr>
-  <tr>
-    <td>Right Cell 6-1</td>
-    <td>Right Cell 6-1</td>
-    <td>Right Cell 6-1</td>
-    <td>Right Cell 6-1</td>
-    <td>Right Cell 6-1</td>
-    <td>Right Cell 6-1</td>
-  </tr>
-  <tr>
-    <td>Right Cell 7-1</td>
-    <td>Right Cell 7-1</td>
-    <td>Right Cell 7-1</td>
-    <td>Right Cell 7-1</td>
-    <td>Right Cell 7-1</td>
-    <td>Right Cell 7-1</td>
-  </tr>
-</table>
-
-
-
-
-
 
 <br><br>
 
@@ -217,163 +78,71 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
           <td rowspan="9">Left Cell (9 rows)</td>
           <td rowspan="3">Top Middle Cell (3 rows)</td>
           <td>Top Right Cell 1</td>
-          <td>Top Right Cell 2</td>
-          <td>Top Right Cell 3</td>
-          <td>Top Right Cell 4</td>
-          <td>Top Right Cell 5</td>
-          <td>Top Right Cell 6</td>
         </tr>
         <tr>
           <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
         </tr>
         <tr>
-          <td>Right Cell 3-1</td>
-          <td>Right Cell 3-1</td>
-          <td>Right Cell 3-1</td>
-          <td>Right Cell 3-1</td>
-          <td>Right Cell 3-1</td>
           <td>Right Cell 3-1</td>
         </tr>
         <tr>
           <td rowspan="3">Bottom Middle Cell (3 rows)</td>
           <td>Bottom Right Cell 1</td>
-          <td>Bottom Right Cell 2</td>
-          <td>Bottom Right Cell 3</td>
-          <td>Bottom Right Cell 4</td>
-          <td>Bottom Right Cell 5</td>
-          <td>Bottom Right Cell 6</td>
         </tr>
         <tr>
           <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
         </tr>
         <tr>
-          <td>Right Cell 5-1</td>
-          <td>Right Cell 5-1</td>
-          <td>Right Cell 5-1</td>
-          <td>Right Cell 5-1</td>
-          <td>Right Cell 5-1</td>
           <td>Right Cell 5-1</td>
         </tr>
         <tr>
           <td rowspan="3">Third Category (3 rows)</td>
           <td>Third Right Cell 1</td>
-          <td>Third Right Cell 2</td>
-          <td>Third Right Cell 3</td>
-          <td>Third Right Cell 4</td>
-          <td>Third Right Cell 5</td>
-          <td>Third Right Cell 6</td>
         </tr>
         <tr>
           <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
         </tr>
         <tr>
-          <td>Right Cell 7-1</td>
-          <td>Right Cell 7-1</td>
-          <td>Right Cell 7-1</td>
-          <td>Right Cell 7-1</td>
-          <td>Right Cell 7-1</td>
           <td>Right Cell 7-1</td>
         </tr>
       </table>
-    </td>
-  </tr>
-    </td>
-    <td>
+      <td>
       <table border="1">
         <tr>
           <td rowspan="9">Left Cell (9 rows)</td>
           <td rowspan="3">Top Middle Cell (3 rows)</td>
           <td>Top Right Cell 1</td>
-          <td>Top Right Cell 2</td>
-          <td>Top Right Cell 3</td>
-          <td>Top Right Cell 4</td>
-          <td>Top Right Cell 5</td>
-          <td>Top Right Cell 6</td>
         </tr>
         <tr>
           <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
-          <td>Right Cell 1-2</td>
         </tr>
         <tr>
-          <td>Right Cell 3-1</td>
-          <td>Right Cell 3-1</td>
-          <td>Right Cell 3-1</td>
-          <td>Right Cell 3-1</td>
-          <td>Right Cell 3-1</td>
           <td>Right Cell 3-1</td>
         </tr>
         <tr>
           <td rowspan="3">Bottom Middle Cell (3 rows)</td>
           <td>Bottom Right Cell 1</td>
-          <td>Bottom Right Cell 2</td>
-          <td>Bottom Right Cell 3</td>
-          <td>Bottom Right Cell 4</td>
-          <td>Bottom Right Cell 5</td>
-          <td>Bottom Right Cell 6</td>
         </tr>
         <tr>
           <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
-          <td>Right Cell 4-1</td>
         </tr>
         <tr>
-          <td>Right Cell 5-1</td>
-          <td>Right Cell 5-1</td>
-          <td>Right Cell 5-1</td>
-          <td>Right Cell 5-1</td>
-          <td>Right Cell 5-1</td>
           <td>Right Cell 5-1</td>
         </tr>
         <tr>
           <td rowspan="3">Third Category (3 rows)</td>
           <td>Third Right Cell 1</td>
-          <td>Third Right Cell 2</td>
-          <td>Third Right Cell 3</td>
-          <td>Third Right Cell 4</td>
-          <td>Third Right Cell 5</td>
-          <td>Third Right Cell 6</td>
         </tr>
         <tr>
           <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
-          <td>Right Cell 6-1</td>
         </tr>
         <tr>
-          <td>Right Cell 7-1</td>
-          <td>Right Cell 7-1</td>
-          <td>Right Cell 7-1</td>
-          <td>Right Cell 7-1</td>
-          <td>Right Cell 7-1</td>
           <td>Right Cell 7-1</td>
         </tr>
       </table>
     </td>
-  </tr>  
+  </tr>
+     
 </table>
 
 
@@ -386,6 +155,19 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
 
 
 <br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Data Science Foundations
