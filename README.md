@@ -20,48 +20,51 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
       <table border="1">
         <tr>
           <td rowspan="6"><a href="#Data-Science-Foundations">Data Science Foundations</a></td>
-          <td rowspan="3">Top Middle Cell (3 rows)</td>
-          <td>Top Right Cell 1</td>
+          <td rowspan="3">Statistical Inference</td>
+          <td>Probability Theory - Foundation to Data Science</td>
         </tr>
         <tr>
-          <td>Right Cell 1-2</td>
+          <td>Statistical Inference for Estimation in Data Science</td>
         </tr>
         <tr>
-          <td>Right Cell 3-1</td>
+          <td>Statistical Inference and Hypothesis Testing in Data Science Applications</td>
         </tr>
         <tr>
-          <td rowspan="3">Bottom Middle Cell (3 rows)</td>
-          <td>Bottom Right Cell 1</td>
+          <td rowspan="3">Data Structures and Algorithms</td>
+          <td>Algorithms for Searching Sorting and Indexing</td>
         </tr>
         <tr>
-          <td>Right Cell 4-1</td>
+          <td>Trees and Graphs</td>
         </tr>
         <tr>
-          <td>Right Cell 5-1</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table border="1">
-        <tr>
-          <td rowspan="4">Left Cell (4 rows)</td>
-          <td>Cell 1</td>
-        </tr>
-        <tr>
-          <td>Cell 2</td>
-        </tr>
-        <tr>
-          <td>Cell 3</td>
-        </tr>
-        <tr>
-          <td>Cell 4</td>
+          <td>Dynamic Programming and Greedy Algorithms</td>
         </tr>
       </table>
     </td>
     <td>
       <table border="1">
         <tr>
-          <td rowspan="4">Left Cell (4 rows)</td>
+          <td rowspan="4"><a hrf="#Vital-Skills-for-Data-Science">Vital Skills for Data Science</a></td>
+          <td>Data Science as a Field</td>
+        </tr>
+        <tr>
+          <td>Fundamentals of Data Visualization</td>
+        </tr>
+        <tr>
+          <td>Ethical Issues in Data Science</td>
+        </tr>
+        <tr>
+          <td>Cybersecurity for Data Science</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table border="1">
+        <tr>
+          <td colspan="2"><a hrf="#-Statistics-Core-Courses">Statistics Core Courses</a></td>
+        </tr>
+        <tr>
+          <td rowspan="4">Statistical Modeling for Data Science Applications</td>
           <td>Cell 1</td>
         </tr>
         <tr>
