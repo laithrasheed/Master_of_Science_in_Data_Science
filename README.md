@@ -19,7 +19,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
     <td>
       <table border="1">
         <tr>
-          <td rowspan="6"><a href="#Data-Science-Foundations">Left Cell (6 rows)</a></td>
+          <td rowspan="6"><a href="#Data-Science-Foundations">Data Science Foundations</a></td>
           <td rowspan="3">Top Middle Cell (3 rows)</td>
           <td>Top Right Cell 1</td>
         </tr>
