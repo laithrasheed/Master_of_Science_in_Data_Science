@@ -2,15 +2,18 @@
 
 # Master of Science in Data Science (MSDS)
 
+Welcome to the Master of Science in Data Science (MSDS) repository. Here, I present the program's curriculum and the projects I have implemented during my journey at the University of Colorado Boulder (CU Boulder).
 
-Welcome to the MSDS repository, where I present the curriculum of the program alongside projects I have implemented during my journey of pursuing the Master's Degree from the University of Colorado Boulder (CU Boulder). The MSDS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. The MSDS Program is a Non-Thesis Degree that consists of 30 credit hours, such that each credit hour represent one course that belongs to a specific specialziation.
+The MSDS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. It is a non-thesis program consisting of 30 credit hours, with each credit hour representing one course within a specific specialization.
 
-the below table shows you the MSDS curriculm and helps navigate directly to a course or a specialziation you are interesetd to view that is listed in this README file
-
-
+The table below outlines the curriculum of the MSDS degree, providing a comprehensive view of the specializations and courses I have completed to earn the degree.
 
 
 <br><br>
+
+
+
+
 
 
 
@@ -44,7 +47,7 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
     <td>
       <table border="1">
         <tr>
-          <td rowspan="4"><a hrf="#Vital-Skills-for-Data-Science">Vital Skills for Data Science</a></td>
+          <td rowspan="4"><a href="#-Vital-Skills-for-Data-Science">Vital Skills for Data Science</a></td>
           <td>Data Science as a Field</td>
         </tr>
         <tr>
@@ -61,86 +64,83 @@ the below table shows you the MSDS curriculm and helps navigate directly to a co
     <td>
       <table border="1">
         <tr>
-          <td colspan="2"><a hrf="#-Statistics-Core-Courses">Statistics Core Courses</a></td>
+          <td colspan="2" align="center"><a href="#-Statistics-Core-Courses">Statistics Core Courses</a></td>
         </tr>
         <tr>
           <td rowspan="4">Statistical Modeling for Data Science Applications</td>
-          <td>Cell 1</td>
+          <td>Modern Regression Analysis in R</td>
         </tr>
         <tr>
-          <td>Cell 2</td>
+          <td>ANOVA and Experimental Design</td>
         </tr>
         <tr>
-          <td>Cell 3</td>
+          <td>Generalized Linear Models and Nonparametric Regression</td>
         </tr>
       </table>
     </td>
     <td>
       <table border="1">
         <tr>
-          <td rowspan="9">Left Cell (9 rows)</td>
-          <td rowspan="3">Top Middle Cell (3 rows)</td>
-          <td>Top Right Cell 1</td>
+          <td rowspan="9"><a href="#-Computer-Science-Core-Courses">Computer Science Core Courses</a></td>
+          <td rowspan="2">Databases for Data Scientists</td>
+          <td>Relational Database Design</td>
         </tr>
         <tr>
-          <td>Right Cell 1-2</td>
+          <td>The Structured Query Language (SQL)</td>
         </tr>
         <tr>
-          <td>Right Cell 3-1</td>
+          <td rowspan="3">Data Mining Foundations and Practice</td>
+          <td>Data Mining Pipeline</td>
         </tr>
         <tr>
-          <td rowspan="3">Bottom Middle Cell (3 rows)</td>
-          <td>Bottom Right Cell 1</td>
+          <td>Data Mining Methods</td>
         </tr>
         <tr>
-          <td>Right Cell 4-1</td>
+          <td>Data Mining Project</td>
         </tr>
         <tr>
-          <td>Right Cell 5-1</td>
+          <td rowspan="3">Machine Learning</td>
+          <td>Introduction to Machine Learning - Supervised Learning</td>
         </tr>
         <tr>
-          <td rowspan="3">Third Category (3 rows)</td>
-          <td>Third Right Cell 1</td>
+          <td>Unsupervised Algorithms in Machine Learning</td>
         </tr>
         <tr>
-          <td>Right Cell 6-1</td>
-        </tr>
-        <tr>
-          <td>Right Cell 7-1</td>
+          <td>Introduction to Deep Learning</td>
         </tr>
       </table>
       <td>
       <table border="1">
         <tr>
-          <td rowspan="9">Left Cell (9 rows)</td>
-          <td rowspan="3">Top Middle Cell (3 rows)</td>
-          <td>Top Right Cell 1</td>
+          <td rowspan="9"><a href="#-Elective-Courses">Elective Courses</a></td>
+          <td rowspan="3">Data Science Methods for Quality Improvements</td>
+          <td>Managing, Describing, and Analyzing Data</td>
         </tr>
         <tr>
-          <td>Right Cell 1-2</td>
+          <td>Stability and Capability in Quality Improvement</td>
         </tr>
         <tr>
-          <td>Right Cell 3-1</td>
+          <td>Measurement System Analysis</td>
         </tr>
         <tr>
-          <td rowspan="3">Bottom Middle Cell (3 rows)</td>
-          <td>Bottom Right Cell 1</td>
+          <td rowspan="3">Statistical Learning for Data Science</td>
+          <td>Regression and Classification</td>
         </tr>
         <tr>
-          <td>Right Cell 4-1</td>
+          <td>Resampling, Selection, and Splines</td>
         </tr>
         <tr>
-          <td>Right Cell 5-1</td>
+          <td>Trees, SVM, and Unsupervised Learning</td>
         </tr>
         <tr>
-          <td rowspan="3">Third Category (3 rows)</td>
-          <td>Third Right Cell 1</td>
+          <td rowspan="3">Project Management</td>
+          <td>Project Management: Foundations and Initiation</td>
         </tr>
         <tr>
-          <td>Right Cell 6-1</td>
+          <td>Project Planning and Execution</td>
         </tr>
         <tr>
-          <td>Right Cell 7-1</td>
+          <td>Agile Project Management</td>
         </tr>
       </table>
     </td>
