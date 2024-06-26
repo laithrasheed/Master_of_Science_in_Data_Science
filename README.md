@@ -47,7 +47,7 @@ The table below outlines the curriculum of the MSDS degree, providing a comprehe
     <td>
       <table border="1">
         <tr>
-          <td rowspan="4"><a href="#-Vital-Skills-for-Data-Science">Vital Skills for Data Science</a></td>
+          <td rowspan="4"><a href="#Vital-Skills-for-Data-Science">Vital Skills for Data Science</a></td>
           <td>Data Science as a Field</td>
         </tr>
         <tr>
@@ -64,7 +64,7 @@ The table below outlines the curriculum of the MSDS degree, providing a comprehe
     <td>
       <table border="1">
         <tr>
-          <td colspan="2" align="center"><a href="#-Statistics-Core-Courses">Statistics Core Courses</a></td>
+          <td colspan="2" align="center"><a href="#Statistics-Core-Courses">Statistics Core Courses</a></td>
         </tr>
         <tr>
           <td rowspan="4">Statistical Modeling for Data Science Applications</td>
@@ -81,7 +81,7 @@ The table below outlines the curriculum of the MSDS degree, providing a comprehe
     <td>
       <table border="1">
         <tr>
-          <td rowspan="9"><a href="#-Computer-Science-Core-Courses">Computer Science Core Courses</a></td>
+          <td rowspan="9"><a href="#Computer-Science-Core-Courses">Computer Science Core Courses</a></td>
           <td rowspan="2">Databases for Data Scientists</td>
           <td>Relational Database Design</td>
         </tr>
@@ -112,7 +112,7 @@ The table below outlines the curriculum of the MSDS degree, providing a comprehe
       <td>
       <table border="1">
         <tr>
-          <td rowspan="9"><a href="#-Elective-Courses">Elective Courses</a></td>
+          <td rowspan="9"><a href="#Elective-Courses">Elective Courses</a></td>
           <td rowspan="3">Data Science Methods for Quality Improvements</td>
           <td>Managing, Describing, and Analyzing Data</td>
         </tr>
