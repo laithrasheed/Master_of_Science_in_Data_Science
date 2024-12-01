@@ -6,7 +6,7 @@ The Machine Learning specialization covers Supervised Learning, Unsupervised Lea
 
 **The specialization consists of three courses:**
 
-### [(1) Introduction to Machine Learning - Supervised Learning](...........)
+### [(1) Introduction to Machine Learning - Supervised Learning](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/tree/main/Computer%20Science%20Core%20Courses/Machine%20Learning/Introduction%20to%20Machine%20Learning%20-%20Supervised%20Learning)
 
 - I have completed a peer reviewed final project worth 33% of my grade.
 - The final project is about applying a Supervised ML Algorithm to a real dataset. I have selected the [Cement Manufacturing Dataset](https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset?datasetId=1459683) that is hosted on Kaggle, where the goal is to predict the compressive strenght of a concrete mixture based on the provided features of the dataset.
