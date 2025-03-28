@@ -103,7 +103,7 @@
 ### Week 7 |  Final Exam
 
 - I have completed a peer reviewed final project worth 33% of my grade.
-- The final project is about applying a Supervised ML Algorithm to a real dataset. I have selected the [Cement Manufacturing Dataset](https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset?datasetId=1459683) that is hosted on Kaggle, where the goal is to predict the compressive strenght of a concrete mixture based on the provided features of the dataset.
+- The final project is about applying a Supervised ML Algorithm to a real dataset. I have selected the [Cement Manufacturing Dataset](https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset?datasetId=1459683) that is hosted on Kaggle, where the goal is to predict the compressive strength of a concrete mixture based on the provided features of the dataset.
 - In the below table you can find the Recorded Presenation, Jupyter Notebook, and Slides as a PDF file. 
 
 | Document | Type | Description |
