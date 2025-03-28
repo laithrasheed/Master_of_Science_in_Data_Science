@@ -267,7 +267,7 @@ The table below outlines the curriculum of the MSDS degree, providing a comprehe
 
 | Document | Type | Description |
 |:------------:|:--------------:|:-------------:|
-| [Presenting a MEMO to Cybersecurity Public](https://youtu.be/ikZQ21sH4qE)       |     MP4      |        Recorded presentation to the cybersecurity public about hacking sensitive data in WHO )    |
+| [Presenting a MEMO to Cybersecurity Public](https://youtu.be/ikZQ21sH4qE)       |     MP4      |        Recorded presentation to the cybersecurity public about hacking sensitive data in WHO     |
 | [Cybersecurity MEMO](https://github.com/laithrasheed/Master_of_Science_in_Data_Science/blob/main/Vital%20Skills%20for%20Data%20Science/Cybersecurity%20for%20Data%20Science/Cybersecurity%20MEMO.pdf) | PDF | The file shows a written MEMO by me that is directed to the Cybersecurity public |
 | [Presentation of 5 Question I would ask to a cybersecurity practitioner](https://youtu.be/IBS8otIF6M8) | MP4 | Recorded Presenation about 5 questions I would ask for a cybersecurity practitioner |
 
